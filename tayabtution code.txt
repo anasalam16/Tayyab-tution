@@ -1,0 +1,1272 @@
+<html lang="en-US"><head>
+	
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5, viewport-fit=cover">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+
+	<title>Tayyab Tution – Best place for your children to guidence</title>
+<meta name="robots" content="max-image-preview:large">
+<link rel="alternate" type="application/rss+xml" title="Tayyab Tution » Feed" href="https://tayyabtution.rf.gd/feed/">
+<link rel="alternate" type="application/rss+xml" title="Tayyab Tution » Comments Feed" href="https://tayyabtution.rf.gd/comments/feed/">
+<link rel="stylesheet" id="blocksy-dynamic-global-css" href="https://tayyabtution.rf.gd/wp-content/uploads/blocksy/css/global.css?ver=48100" media="all">
+<link rel="stylesheet" id="wp-block-library-css" href="https://tayyabtution.rf.gd/wp-includes/css/dist/block-library/style.min.css?ver=6.3.1" media="all">
+<style id="global-styles-inline-css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--palette-color-1: var(--paletteColor1, #2872fa);--wp--preset--color--palette-color-2: var(--paletteColor2, #1559ed);--wp--preset--color--palette-color-3: var(--paletteColor3, #3A4F66);--wp--preset--color--palette-color-4: var(--paletteColor4, #192a3d);--wp--preset--color--palette-color-5: var(--paletteColor5, #e1e8ed);--wp--preset--color--palette-color-6: var(--paletteColor6, #f2f5f7);--wp--preset--color--palette-color-7: var(--paletteColor7, #FAFBFC);--wp--preset--color--palette-color-8: var(--paletteColor8, #ffffff);--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--gradient--juicy-peach: linear-gradient(to right, #ffecd2 0%, #fcb69f 100%);--wp--preset--gradient--young-passion: linear-gradient(to right, #ff8177 0%, #ff867a 0%, #ff8c7f 21%, #f99185 52%, #cf556c 78%, #b12a5b 100%);--wp--preset--gradient--true-sunset: linear-gradient(to right, #fa709a 0%, #fee140 100%);--wp--preset--gradient--morpheus-den: linear-gradient(to top, #30cfd0 0%, #330867 100%);--wp--preset--gradient--plum-plate: linear-gradient(135deg, #667eea 0%, #764ba2 100%);--wp--preset--gradient--aqua-splash: linear-gradient(15deg, #13547a 0%, #80d0c7 100%);--wp--preset--gradient--love-kiss: linear-gradient(to top, #ff0844 0%, #ffb199 100%);--wp--preset--gradient--new-retrowave: linear-gradient(to top, #3b41c5 0%, #a981bb 49%, #ffc8a9 100%);--wp--preset--gradient--plum-bath: linear-gradient(to top, #cc208e 0%, #6713d2 100%);--wp--preset--gradient--high-flight: linear-gradient(to right, #0acffe 0%, #495aff 100%);--wp--preset--gradient--teen-party: linear-gradient(-225deg, #FF057C 0%, #8D0B93 50%, #321575 100%);--wp--preset--gradient--fabled-sunset: linear-gradient(-225deg, #231557 0%, #44107A 29%, #FF1361 67%, #FFF800 100%);--wp--preset--gradient--arielle-smile: radial-gradient(circle 248px at center, #16d9e3 0%, #30c7ec 47%, #46aef7 100%);--wp--preset--gradient--itmeo-branding: linear-gradient(180deg, #2af598 0%, #009efd 100%);--wp--preset--gradient--deep-blue: linear-gradient(to right, #6a11cb 0%, #2575fc 100%);--wp--preset--gradient--strong-bliss: linear-gradient(to right, #f78ca0 0%, #f9748f 19%, #fd868c 60%, #fe9a8b 100%);--wp--preset--gradient--sweet-period: linear-gradient(to top, #3f51b1 0%, #5a55ae 13%, #7b5fac 25%, #8f6aae 38%, #a86aa4 50%, #cc6b8e 62%, #f18271 75%, #f3a469 87%, #f7c978 100%);--wp--preset--gradient--purple-division: linear-gradient(to top, #7028e4 0%, #e5b2ca 100%);--wp--preset--gradient--cold-evening: linear-gradient(to top, #0c3483 0%, #a2b6df 100%, #6b8cce 100%, #a2b6df 100%);--wp--preset--gradient--mountain-rock: linear-gradient(to right, #868f96 0%, #596164 100%);--wp--preset--gradient--desert-hump: linear-gradient(to top, #c79081 0%, #dfa579 100%);--wp--preset--gradient--ethernal-constance: linear-gradient(to top, #09203f 0%, #537895 100%);--wp--preset--gradient--happy-memories: linear-gradient(-60deg, #ff5858 0%, #f09819 100%);--wp--preset--gradient--grown-early: linear-gradient(to top, #0ba360 0%, #3cba92 100%);--wp--preset--gradient--morning-salad: linear-gradient(-225deg, #B7F8DB 0%, #50A7C2 100%);--wp--preset--gradient--night-call: linear-gradient(-225deg, #AC32E4 0%, #7918F2 48%, #4801FF 100%);--wp--preset--gradient--mind-crawl: linear-gradient(-225deg, #473B7B 0%, #3584A7 51%, #30D2BE 100%);--wp--preset--gradient--angel-care: linear-gradient(-225deg, #FFE29F 0%, #FFA99F 48%, #FF719A 100%);--wp--preset--gradient--juicy-cake: linear-gradient(to top, #e14fad 0%, #f9d423 100%);--wp--preset--gradient--rich-metal: linear-gradient(to right, #d7d2cc 0%, #304352 100%);--wp--preset--gradient--mole-hall: linear-gradient(-20deg, #616161 0%, #9bc5c3 100%);--wp--preset--gradient--cloudy-knoxville: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%);--wp--preset--gradient--soft-grass: linear-gradient(to top, #c1dfc4 0%, #deecdd 100%);--wp--preset--gradient--saint-petersburg: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);--wp--preset--gradient--everlasting-sky: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%);--wp--preset--gradient--kind-steel: linear-gradient(-20deg, #e9defa 0%, #fbfcdb 100%);--wp--preset--gradient--over-sun: linear-gradient(60deg, #abecd6 0%, #fbed96 100%);--wp--preset--gradient--premium-white: linear-gradient(to top, #d5d4d0 0%, #d5d4d0 1%, #eeeeec 31%, #efeeec 75%, #e9e9e7 100%);--wp--preset--gradient--clean-mirror: linear-gradient(45deg, #93a5cf 0%, #e4efe9 100%);--wp--preset--gradient--wild-apple: linear-gradient(to top, #d299c2 0%, #fef9d7 100%);--wp--preset--gradient--snow-again: linear-gradient(to top, #e6e9f0 0%, #eef1f5 100%);--wp--preset--gradient--confident-cloud: linear-gradient(to top, #dad4ec 0%, #dad4ec 1%, #f3e7e9 100%);--wp--preset--gradient--glass-water: linear-gradient(to top, #dfe9f3 0%, white 100%);--wp--preset--gradient--perfect-white: linear-gradient(-225deg, #E3FDF5 0%, #FFE6FA 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}body { margin: 0;--wp--style--global--content-size: var(--block-max-width);--wp--style--global--wide-size: var(--block-wide-max-width); }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.wp-site-blocks) > * { margin-block-start: var(--content-spacing); margin-block-end: 0; }:where(.wp-site-blocks) > :first-child:first-child { margin-block-start: 0; }:where(.wp-site-blocks) > :last-child:last-child { margin-block-end: 0; }body { --wp--style--block-gap: var(--content-spacing); }:where(body .is-layout-flow)  > :first-child:first-child{margin-block-start: 0;}:where(body .is-layout-flow)  > :last-child:last-child{margin-block-end: 0;}:where(body .is-layout-flow)  > *{margin-block-start: var(--content-spacing);margin-block-end: 0;}:where(body .is-layout-constrained)  > :first-child:first-child{margin-block-start: 0;}:where(body .is-layout-constrained)  > :last-child:last-child{margin-block-end: 0;}:where(body .is-layout-constrained)  > *{margin-block-start: var(--content-spacing);margin-block-end: 0;}:where(body .is-layout-flex) {gap: var(--content-spacing);}:where(body .is-layout-grid) {gap: var(--content-spacing);}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-palette-color-1-color{color: var(--wp--preset--color--palette-color-1) !important;}.has-palette-color-2-color{color: var(--wp--preset--color--palette-color-2) !important;}.has-palette-color-3-color{color: var(--wp--preset--color--palette-color-3) !important;}.has-palette-color-4-color{color: var(--wp--preset--color--palette-color-4) !important;}.has-palette-color-5-color{color: var(--wp--preset--color--palette-color-5) !important;}.has-palette-color-6-color{color: var(--wp--preset--color--palette-color-6) !important;}.has-palette-color-7-color{color: var(--wp--preset--color--palette-color-7) !important;}.has-palette-color-8-color{color: var(--wp--preset--color--palette-color-8) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-palette-color-1-background-color{background-color: var(--wp--preset--color--palette-color-1) !important;}.has-palette-color-2-background-color{background-color: var(--wp--preset--color--palette-color-2) !important;}.has-palette-color-3-background-color{background-color: var(--wp--preset--color--palette-color-3) !important;}.has-palette-color-4-background-color{background-color: var(--wp--preset--color--palette-color-4) !important;}.has-palette-color-5-background-color{background-color: var(--wp--preset--color--palette-color-5) !important;}.has-palette-color-6-background-color{background-color: var(--wp--preset--color--palette-color-6) !important;}.has-palette-color-7-background-color{background-color: var(--wp--preset--color--palette-color-7) !important;}.has-palette-color-8-background-color{background-color: var(--wp--preset--color--palette-color-8) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-palette-color-1-border-color{border-color: var(--wp--preset--color--palette-color-1) !important;}.has-palette-color-2-border-color{border-color: var(--wp--preset--color--palette-color-2) !important;}.has-palette-color-3-border-color{border-color: var(--wp--preset--color--palette-color-3) !important;}.has-palette-color-4-border-color{border-color: var(--wp--preset--color--palette-color-4) !important;}.has-palette-color-5-border-color{border-color: var(--wp--preset--color--palette-color-5) !important;}.has-palette-color-6-border-color{border-color: var(--wp--preset--color--palette-color-6) !important;}.has-palette-color-7-border-color{border-color: var(--wp--preset--color--palette-color-7) !important;}.has-palette-color-8-border-color{border-color: var(--wp--preset--color--palette-color-8) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-juicy-peach-gradient-background{background: var(--wp--preset--gradient--juicy-peach) !important;}.has-young-passion-gradient-background{background: var(--wp--preset--gradient--young-passion) !important;}.has-true-sunset-gradient-background{background: var(--wp--preset--gradient--true-sunset) !important;}.has-morpheus-den-gradient-background{background: var(--wp--preset--gradient--morpheus-den) !important;}.has-plum-plate-gradient-background{background: var(--wp--preset--gradient--plum-plate) !important;}.has-aqua-splash-gradient-background{background: var(--wp--preset--gradient--aqua-splash) !important;}.has-love-kiss-gradient-background{background: var(--wp--preset--gradient--love-kiss) !important;}.has-new-retrowave-gradient-background{background: var(--wp--preset--gradient--new-retrowave) !important;}.has-plum-bath-gradient-background{background: var(--wp--preset--gradient--plum-bath) !important;}.has-high-flight-gradient-background{background: var(--wp--preset--gradient--high-flight) !important;}.has-teen-party-gradient-background{background: var(--wp--preset--gradient--teen-party) !important;}.has-fabled-sunset-gradient-background{background: var(--wp--preset--gradient--fabled-sunset) !important;}.has-arielle-smile-gradient-background{background: var(--wp--preset--gradient--arielle-smile) !important;}.has-itmeo-branding-gradient-background{background: var(--wp--preset--gradient--itmeo-branding) !important;}.has-deep-blue-gradient-background{background: var(--wp--preset--gradient--deep-blue) !important;}.has-strong-bliss-gradient-background{background: var(--wp--preset--gradient--strong-bliss) !important;}.has-sweet-period-gradient-background{background: var(--wp--preset--gradient--sweet-period) !important;}.has-purple-division-gradient-background{background: var(--wp--preset--gradient--purple-division) !important;}.has-cold-evening-gradient-background{background: var(--wp--preset--gradient--cold-evening) !important;}.has-mountain-rock-gradient-background{background: var(--wp--preset--gradient--mountain-rock) !important;}.has-desert-hump-gradient-background{background: var(--wp--preset--gradient--desert-hump) !important;}.has-ethernal-constance-gradient-background{background: var(--wp--preset--gradient--ethernal-constance) !important;}.has-happy-memories-gradient-background{background: var(--wp--preset--gradient--happy-memories) !important;}.has-grown-early-gradient-background{background: var(--wp--preset--gradient--grown-early) !important;}.has-morning-salad-gradient-background{background: var(--wp--preset--gradient--morning-salad) !important;}.has-night-call-gradient-background{background: var(--wp--preset--gradient--night-call) !important;}.has-mind-crawl-gradient-background{background: var(--wp--preset--gradient--mind-crawl) !important;}.has-angel-care-gradient-background{background: var(--wp--preset--gradient--angel-care) !important;}.has-juicy-cake-gradient-background{background: var(--wp--preset--gradient--juicy-cake) !important;}.has-rich-metal-gradient-background{background: var(--wp--preset--gradient--rich-metal) !important;}.has-mole-hall-gradient-background{background: var(--wp--preset--gradient--mole-hall) !important;}.has-cloudy-knoxville-gradient-background{background: var(--wp--preset--gradient--cloudy-knoxville) !important;}.has-soft-grass-gradient-background{background: var(--wp--preset--gradient--soft-grass) !important;}.has-saint-petersburg-gradient-background{background: var(--wp--preset--gradient--saint-petersburg) !important;}.has-everlasting-sky-gradient-background{background: var(--wp--preset--gradient--everlasting-sky) !important;}.has-kind-steel-gradient-background{background: var(--wp--preset--gradient--kind-steel) !important;}.has-over-sun-gradient-background{background: var(--wp--preset--gradient--over-sun) !important;}.has-premium-white-gradient-background{background: var(--wp--preset--gradient--premium-white) !important;}.has-clean-mirror-gradient-background{background: var(--wp--preset--gradient--clean-mirror) !important;}.has-wild-apple-gradient-background{background: var(--wp--preset--gradient--wild-apple) !important;}.has-snow-again-gradient-background{background: var(--wp--preset--gradient--snow-again) !important;}.has-confident-cloud-gradient-background{background: var(--wp--preset--gradient--confident-cloud) !important;}.has-glass-water-gradient-background{background: var(--wp--preset--gradient--glass-water) !important;}.has-perfect-white-gradient-background{background: var(--wp--preset--gradient--perfect-white) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel="stylesheet" id="hfe-style-css" href="https://tayyabtution.rf.gd/wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor.css?ver=1.6.17" media="all">
+<link rel="stylesheet" id="elementor-icons-css" href="https://tayyabtution.rf.gd/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.23.0" media="all">
+<link rel="stylesheet" id="elementor-frontend-css" href="https://tayyabtution.rf.gd/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.17.3" media="all">
+<link rel="stylesheet" id="swiper-css" href="https://tayyabtution.rf.gd/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5" media="all">
+<link rel="stylesheet" id="elementor-post-1444-css" href="https://tayyabtution.rf.gd/wp-content/uploads/elementor/css/post-1444.css?ver=1700824137" media="all">
+<link rel="stylesheet" id="elementor-post-1142-css" href="https://tayyabtution.rf.gd/wp-content/uploads/elementor/css/post-1142.css?ver=1701883947" media="all">
+<link rel="stylesheet" id="hfe-widgets-style-css" href="https://tayyabtution.rf.gd/wp-content/plugins/header-footer-elementor/inc/widgets-css/frontend.css?ver=1.6.17" media="all">
+<link rel="stylesheet" id="elementor-post-1872-css" href="https://tayyabtution.rf.gd/wp-content/uploads/elementor/css/post-1872.css?ver=1701774989" media="all">
+<link rel="stylesheet" id="elementor-icons-ekiticons-css" href="https://tayyabtution.rf.gd/wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/css/ekiticons.css?ver=2.9.2" media="all">
+<link rel="stylesheet" id="ct-main-styles-css" href="https://tayyabtution.rf.gd/wp-content/themes/blocksy/static/bundle/main.min.css?ver=1.9.7" media="all">
+<link rel="stylesheet" id="blocksy-ext-widgets-styles-css" href="https://tayyabtution.rf.gd/wp-content/plugins/blocksy-companion/framework/extensions/widgets/static/bundle/main.min.css?ver=1.9.7" media="all">
+<link rel="stylesheet" id="ct-elementor-styles-css" href="https://tayyabtution.rf.gd/wp-content/themes/blocksy/static/bundle/elementor-frontend.min.css?ver=1.9.7" media="all">
+<link rel="stylesheet" id="ct-wpforms-styles-css" href="https://tayyabtution.rf.gd/wp-content/themes/blocksy/static/bundle/wpforms.min.css?ver=1.9.7" media="all">
+<link rel="stylesheet" id="ekit-widget-styles-css" href="https://tayyabtution.rf.gd/wp-content/plugins/elementskit-lite/widgets/init/assets/css/widget-styles.css?ver=2.9.2" media="all">
+<link rel="stylesheet" id="ekit-responsive-css" href="https://tayyabtution.rf.gd/wp-content/plugins/elementskit-lite/widgets/init/assets/css/responsive.css?ver=2.9.2" media="all">
+<link rel="stylesheet" id="google-fonts-1-css" href="https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;display=auto&amp;ver=6.3.1" media="all">
+<link rel="stylesheet" id="google-earlyaccess-2-css" href="https://fonts.googleapis.com/earlyaccess/opensanshebrew.css?ver=6.3.1" media="all">
+<link rel="stylesheet" id="elementor-icons-shared-0-css" href="https://tayyabtution.rf.gd/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3" media="all">
+<link rel="stylesheet" id="elementor-icons-fa-solid-css" href="https://tayyabtution.rf.gd/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3" media="all">
+<link rel="stylesheet" id="elementor-icons-fa-brands-css" href="https://tayyabtution.rf.gd/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3" media="all">
+<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin=""><script src="https://tayyabtution.rf.gd/wp-includes/js/jquery/jquery.min.js?ver=3.7.0" id="jquery-core-js"></script>
+<script src="https://tayyabtution.rf.gd/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<link rel="https://api.w.org/" href="https://tayyabtution.rf.gd/wp-json/"><link rel="alternate" type="application/json" href="https://tayyabtution.rf.gd/wp-json/wp/v2/pages/1142"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://tayyabtution.rf.gd/xmlrpc.php?rsd">
+<meta name="generator" content="WordPress 6.3.1">
+<link rel="canonical" href="https://tayyabtution.rf.gd/">
+<link rel="shortlink" href="https://tayyabtution.rf.gd/">
+<link rel="alternate" type="application/json+oembed" href="https://tayyabtution.rf.gd/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftayyabtution.rf.gd%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://tayyabtution.rf.gd/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftayyabtution.rf.gd%2F&amp;format=xml">
+<noscript><link rel='stylesheet' href='https://tayyabtution.rf.gd/wp-content/themes/blocksy/static/bundle/no-scripts.min.css' type='text/css'></noscript>
+<style>.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><link rel="icon" href="https://tayyabtution.rf.gd/wp-content/uploads/2023/10/cropped-6QwfOC-LogoMakr-32x32.png" sizes="32x32">
+<link rel="icon" href="https://tayyabtution.rf.gd/wp-content/uploads/2023/10/cropped-6QwfOC-LogoMakr-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon" href="https://tayyabtution.rf.gd/wp-content/uploads/2023/10/cropped-6QwfOC-LogoMakr-180x180.png">
+<meta name="msapplication-TileImage" content="https://tayyabtution.rf.gd/wp-content/uploads/2023/10/cropped-6QwfOC-LogoMakr-270x270.png">
+<style id="wpforms-css-vars-root">
+				:root {
+					--wpforms-field-border-radius: 3px;
+--wpforms-field-background-color: #ffffff;
+--wpforms-field-border-color: rgba( 0, 0, 0, 0.25 );
+--wpforms-field-text-color: rgba( 0, 0, 0, 0.7 );
+--wpforms-label-color: rgba( 0, 0, 0, 0.85 );
+--wpforms-label-sublabel-color: rgba( 0, 0, 0, 0.55 );
+--wpforms-label-error-color: #d63637;
+--wpforms-button-border-radius: 3px;
+--wpforms-button-background-color: #066aab;
+--wpforms-button-text-color: #ffffff;
+--wpforms-field-size-input-height: 43px;
+--wpforms-field-size-input-spacing: 15px;
+--wpforms-field-size-font-size: 16px;
+--wpforms-field-size-line-height: 19px;
+--wpforms-field-size-padding-h: 14px;
+--wpforms-field-size-checkbox-size: 16px;
+--wpforms-field-size-sublabel-spacing: 5px;
+--wpforms-field-size-icon-size: 1;
+--wpforms-label-size-font-size: 16px;
+--wpforms-label-size-line-height: 19px;
+--wpforms-label-size-sublabel-font-size: 14px;
+--wpforms-label-size-sublabel-line-height: 17px;
+--wpforms-button-size-font-size: 17px;
+--wpforms-button-size-height: 41px;
+--wpforms-button-size-padding-h: 15px;
+--wpforms-button-size-margin-top: 10px;
+
+				}
+			</style>	</head>
+
+
+<body class="home page-template-default page page-id-1142 wp-custom-logo wp-embed-responsive ehf-footer ehf-template-blocksy ehf-stylesheet-blocksy elementor-default elementor-kit-1444 elementor-page elementor-page-1142 ct-elementor-default-template e--ua-blink e--ua-chrome e--ua-webkit" data-link="type-2" data-prefix="single_page" data-header="type-1" data-footer="type-1" itemscope="itemscope" itemtype="https://schema.org/WebPage" data-elementor-device-mode="tablet">
+
+<a class="skip-link show-on-focus" href="#main">
+	Skip to content</a>
+
+<div class="ct-drawer-canvas">
+		<div id="search-modal" class="ct-panel" data-behaviour="modal">
+			<div class="ct-panel-actions">
+				<button class="ct-toggle-close" data-type="type-1" aria-label="Close search modal">
+					<svg class="ct-icon" width="12" height="12" viewBox="0 0 15 15"><path d="M1 15a1 1 0 01-.71-.29 1 1 0 010-1.41l5.8-5.8-5.8-5.8A1 1 0 011.7.29l5.8 5.8 5.8-5.8a1 1 0 011.41 1.41l-5.8 5.8 5.8 5.8a1 1 0 01-1.41 1.41l-5.8-5.8-5.8 5.8A1 1 0 011 15z"></path></svg>				</button>
+			</div>
+
+			<div class="ct-panel-content">
+				
+
+<form role="search" method="get" class="search-form" action="https://tayyabtution.rf.gd/" aria-haspopup="listbox" data-live-results="thumbs">
+
+	<input type="search" class="modal-field" placeholder="Search" value="" name="s" autocomplete="off" title="Search for..." aria-label="Search for...">
+
+	<button type="submit" class="search-submit" aria-label="Search button">
+		<svg class="ct-icon" aria-hidden="true" width="15" height="15" viewBox="0 0 15 15"><path d="M14.8,13.7L12,11c0.9-1.2,1.5-2.6,1.5-4.2c0-3.7-3-6.8-6.8-6.8S0,3,0,6.8s3,6.8,6.8,6.8c1.6,0,3.1-0.6,4.2-1.5l2.8,2.8c0.1,0.1,0.3,0.2,0.5,0.2s0.4-0.1,0.5-0.2C15.1,14.5,15.1,14,14.8,13.7z M1.5,6.8c0-2.9,2.4-5.2,5.2-5.2S12,3.9,12,6.8S9.6,12,6.8,12S1.5,9.6,1.5,6.8z"></path></svg>
+		<span data-loader="circles"><span></span><span></span><span></span></span>
+	</button>
+
+	
+			<input type="hidden" name="ct_post_type" value="post:page:elementskit_content:elementskit_template:elementskit_widget:elementor-hf">
+	
+	
+			<div class="screen-reader-text" aria-live="polite" role="status">
+			No results		</div>
+	
+</form>
+
+
+			</div>
+		</div>
+
+		<div id="offcanvas" class="ct-panel ct-header" data-behaviour="right-side"><div class="ct-panel-inner">
+		<div class="ct-panel-actions">
+			<button class="ct-toggle-close" data-type="type-1" aria-label="Close drawer">
+				<svg class="ct-icon" width="12" height="12" viewBox="0 0 15 15"><path d="M1 15a1 1 0 01-.71-.29 1 1 0 010-1.41l5.8-5.8-5.8-5.8A1 1 0 011.7.29l5.8 5.8 5.8-5.8a1 1 0 011.41 1.41l-5.8 5.8 5.8 5.8a1 1 0 01-1.41 1.41l-5.8-5.8-5.8 5.8A1 1 0 011 15z"></path></svg>
+			</button>
+		</div>
+		<div class="ct-panel-content" data-device="desktop"></div><div class="ct-panel-content" data-device="mobile">
+<nav class="mobile-menu" data-id="mobile-menu" data-interaction="click" data-toggle-type="type-1" aria-label="Off Canvas Menu">
+	<ul id="menu-main-menu-1" role="menubar"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-1142 current_page_item menu-item-1435" role="none"><a href="https://tayyabtution.rf.gd/" aria-current="page" class="ct-menu-link" role="menuitem">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1438" role="none"><a href="https://tayyabtution.rf.gd/services/" class="ct-menu-link" role="menuitem">Courses</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1436" role="none"><a href="https://tayyabtution.rf.gd/about/" class="ct-menu-link" role="menuitem">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1437" role="none"><a href="https://tayyabtution.rf.gd/contact/" class="ct-menu-link" role="menuitem">Contact</a></li>
+</ul></nav>
+
+</div></div></div></div>
+<div id="main-container">
+	<header id="header" class="ct-header" data-id="type-1" itemscope="" itemtype="https://schema.org/WPHeader"><div data-device="desktop"><div data-row="top" data-column-set="2"><div class="ct-container-fluid"><div data-column="start" data-placements="1"><div data-items="primary">
+<div class="ct-header-cta" data-id="button">
+	<a href="" class="ct-button" data-size="small" aria-label="Get 50% Discount">
+		Get 50% Discount	</a>
+</div>
+</div></div><div data-column="end" data-placements="1"><div data-items="primary">
+<div class="ct-header-socials " data-id="socials">
+
+	
+		<div class="ct-social-box" data-icon-size="custom" data-color="custom" data-icons-type="simple">
+			
+			
+							
+				<a href="#" data-network="facebook" aria-label="Facebook" rel="noopener">
+					<span class="ct-icon-container">
+				<svg width="20px" height="20px" viewBox="0 0 20 20" aria-hidden="true">
+					<path d="M20,10.1c0-5.5-4.5-10-10-10S0,4.5,0,10.1c0,5,3.7,9.1,8.4,9.9v-7H5.9v-2.9h2.5V7.9C8.4,5.4,9.9,4,12.2,4c1.1,0,2.2,0.2,2.2,0.2v2.5h-1.3c-1.2,0-1.6,0.8-1.6,1.6v1.9h2.8L13.9,13h-2.3v7C16.3,19.2,20,15.1,20,10.1z"></path>
+				</svg>
+			</span>				</a>
+							
+				<a href="#" data-network="twitter" aria-label="X (Twitter)" rel="noopener">
+					<span class="ct-icon-container">
+				<svg width="20px" height="20px" viewBox="0 0 20 20" aria-hidden="true">
+					<path d="M2.9 0C1.3 0 0 1.3 0 2.9v14.3C0 18.7 1.3 20 2.9 20h14.3c1.6 0 2.9-1.3 2.9-2.9V2.9C20 1.3 18.7 0 17.1 0H2.9zm13.2 3.8L11.5 9l5.5 7.2h-4.3l-3.3-4.4-3.8 4.4H3.4l5-5.7-5.3-6.7h4.4l3 4 3.5-4h2.1zM14.4 15 6.8 5H5.6l7.7 10h1.1z"></path>
+				</svg>
+			</span>				</a>
+							
+				<a href="#" data-network="instagram" aria-label="Instagram" rel="noopener">
+					<span class="ct-icon-container">
+				<svg width="20" height="20" viewBox="0 0 20 20" aria-hidden="true">
+					<circle cx="10" cy="10" r="3.3"></circle>
+					<path d="M14.2,0H5.8C2.6,0,0,2.6,0,5.8v8.3C0,17.4,2.6,20,5.8,20h8.3c3.2,0,5.8-2.6,5.8-5.8V5.8C20,2.6,17.4,0,14.2,0zM10,15c-2.8,0-5-2.2-5-5s2.2-5,5-5s5,2.2,5,5S12.8,15,10,15z M15.8,5C15.4,5,15,4.6,15,4.2s0.4-0.8,0.8-0.8s0.8,0.4,0.8,0.8S16.3,5,15.8,5z"></path>
+				</svg>
+			</span>				</a>
+							
+				<a href="#" data-network="discord" aria-label="Discord" rel="noopener">
+					<span class="ct-icon-container">
+				<svg width="20px" height="20px" viewBox="0 0 20 20" aria-hidden="true">
+					<path d="M17.2,4.2c-1.7-1.4-4.5-1.6-4.6-1.6c-0.2,0-0.4,0.1-0.4,0.3c0,0-0.1,0.1-0.1,0.4c1.1,0.2,2.6,0.6,3.8,1.4C16.1,4.7,16.2,5,16,5.2c-0.1,0.1-0.2,0.2-0.4,0.2c-0.1,0-0.2,0-0.2-0.1C13.3,4,10.5,3.9,10,3.9S6.7,4,4.6,5.3C4.4,5.5,4.1,5.4,4,5.2C3.8,5,3.9,4.7,4.1,4.6c1.3-0.8,2.7-1.2,3.8-1.4C7.9,3,7.8,2.9,7.8,2.9C7.7,2.7,7.5,2.6,7.4,2.6c-0.1,0-2.9,0.2-4.6,1.7C1.8,5.1,0,10.1,0,14.3c0,0.1,0,0.2,0.1,0.2c1.3,2.2,4.7,2.8,5.5,2.8c0,0,0,0,0,0c0.1,0,0.3-0.1,0.4-0.2l0.8-1.1c-2.1-0.6-3.2-1.5-3.3-1.6c-0.2-0.2-0.2-0.4,0-0.6c0.2-0.2,0.4-0.2,0.6,0c0,0,2,1.7,6,1.7c4,0,6-1.7,6-1.7c0.2-0.2,0.5-0.1,0.6,0c0.2,0.2,0.1,0.5,0,0.6c-0.1,0.1-1.2,1-3.3,1.6l0.8,1.1c0.1,0.1,0.2,0.2,0.4,0.2c0,0,0,0,0,0c0.8,0,4.2-0.6,5.5-2.8c0-0.1,0.1-0.1,0.1-0.2C20,10.1,18.2,5.1,17.2,4.2z M7.2,12.6c-0.8,0-1.5-0.8-1.5-1.7s0.7-1.7,1.5-1.7c0.8,0,1.5,0.8,1.5,1.7S8,12.6,7.2,12.6z M12.8,12.6c-0.8,0-1.5-0.8-1.5-1.7s0.7-1.7,1.5-1.7c0.8,0,1.5,0.8,1.5,1.7S13.7,12.6,12.8,12.6z"></path>
+				</svg>
+			</span>				</a>
+							
+				<a href="#" data-network="whatsapp" aria-label="WhatsApp" rel="noopener">
+					<span class="ct-icon-container">
+				<svg width="20px" height="20px" viewBox="0 0 20 20" aria-hidden="true">
+					<path d="M10,0C4.5,0,0,4.5,0,10c0,1.9,0.5,3.6,1.4,5.1L0.1,20l5-1.3C6.5,19.5,8.2,20,10,20c5.5,0,10-4.5,10-10S15.5,0,10,0zM6.6,5.3c0.2,0,0.3,0,0.5,0c0.2,0,0.4,0,0.6,0.4c0.2,0.5,0.7,1.7,0.8,1.8c0.1,0.1,0.1,0.3,0,0.4C8.3,8.2,8.3,8.3,8.1,8.5C8,8.6,7.9,8.8,7.8,8.9C7.7,9,7.5,9.1,7.7,9.4c0.1,0.2,0.6,1.1,1.4,1.7c0.9,0.8,1.7,1.1,2,1.2c0.2,0.1,0.4,0.1,0.5-0.1c0.1-0.2,0.6-0.7,0.8-1c0.2-0.2,0.3-0.2,0.6-0.1c0.2,0.1,1.4,0.7,1.7,0.8s0.4,0.2,0.5,0.3c0.1,0.1,0.1,0.6-0.1,1.2c-0.2,0.6-1.2,1.1-1.7,1.2c-0.5,0-0.9,0.2-3-0.6c-2.5-1-4.1-3.6-4.2-3.7c-0.1-0.2-1-1.3-1-2.6c0-1.2,0.6-1.8,0.9-2.1C6.1,5.4,6.4,5.3,6.6,5.3z"></path>
+				</svg>
+			</span>				</a>
+			
+			
+					</div>
+
+	
+</div>
+</div></div></div></div><div data-row="middle" data-column-set="2"><div class="ct-container-fluid"><div data-column="start" data-placements="1"><div data-items="primary">
+<div class="site-branding" data-id="logo" itemscope="itemscope" itemtype="https://schema.org/Organization">
+
+			<a href="https://tayyabtution.rf.gd/" class="site-logo-container" rel="home"><img width="250" height="98" src="https://tayyabtution.rf.gd/wp-content/uploads/2023/10/7qMSJU-LogoMakr.png" class="default-logo" alt="Tayyab Tution"></a>	
+	</div>
+
+</div></div><div data-column="end" data-placements="1"><div data-items="primary">
+<nav id="header-menu-1" class="header-menu-1" data-id="menu" data-interaction="click:item" data-menu="type-3" data-dropdown="type-1:simple" data-responsive="yes" itemscope="" itemtype="https://schema.org/SiteNavigationElement" aria-label="Header Menu">
+
+	<ul id="menu-main-menu" class="menu" role="menubar"><li id="menu-item-1435" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-1142 current_page_item menu-item-1435" role="none"><a href="https://tayyabtution.rf.gd/" aria-current="page" class="ct-menu-link" role="menuitem">Home</a></li>
+<li id="menu-item-1438" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1438" role="none"><a href="https://tayyabtution.rf.gd/services/" class="ct-menu-link" role="menuitem">Courses</a></li>
+<li id="menu-item-1436" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1436" role="none"><a href="https://tayyabtution.rf.gd/about/" class="ct-menu-link" role="menuitem">About</a></li>
+<li id="menu-item-1437" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1437" role="none"><a href="https://tayyabtution.rf.gd/contact/" class="ct-menu-link" role="menuitem">Contact</a></li>
+</ul></nav>
+
+
+<button data-toggle-panel="#search-modal" class="ct-header-search ct-toggle " aria-label="Open search form" data-label="left" data-id="search">
+
+	<span class="ct-label ct-hidden-sm ct-hidden-md ct-hidden-lg">Search</span>
+
+	<svg class="ct-icon" aria-hidden="true" width="15" height="15" viewBox="0 0 15 15"><path d="M14.8,13.7L12,11c0.9-1.2,1.5-2.6,1.5-4.2c0-3.7-3-6.8-6.8-6.8S0,3,0,6.8s3,6.8,6.8,6.8c1.6,0,3.1-0.6,4.2-1.5l2.8,2.8c0.1,0.1,0.3,0.2,0.5,0.2s0.4-0.1,0.5-0.2C15.1,14.5,15.1,14,14.8,13.7z M1.5,6.8c0-2.9,2.4-5.2,5.2-5.2S12,3.9,12,6.8S9.6,12,6.8,12S1.5,9.6,1.5,6.8z"></path></svg></button>
+</div></div></div></div></div><div data-device="mobile"><div data-row="middle" data-column-set="2"><div class="ct-container-fluid"><div data-column="start" data-placements="1"><div data-items="primary">
+<div class="site-branding" data-id="logo">
+
+			<a href="https://tayyabtution.rf.gd/" class="site-logo-container" rel="home"><img width="250" height="98" src="https://tayyabtution.rf.gd/wp-content/uploads/2023/10/7qMSJU-LogoMakr.png" class="default-logo" alt="Tayyab Tution"></a>	
+	</div>
+
+</div></div><div data-column="end" data-placements="1"><div data-items="primary">
+<button data-toggle-panel="#offcanvas" class="ct-header-trigger ct-toggle " data-design="outline" data-label="right" aria-label="Open off canvas" data-id="trigger">
+
+	<span class="ct-label ct-hidden-sm ct-hidden-md ct-hidden-lg">Menu</span>
+
+	<svg class="ct-icon" width="18" height="14" viewBox="0 0 18 14" aria-hidden="true" data-type="type-1">
+
+		<rect y="0.00" width="18" height="1.7" rx="1"></rect>
+		<rect y="6.15" width="18" height="1.7" rx="1"></rect>
+		<rect y="12.3" width="18" height="1.7" rx="1"></rect>
+	</svg>
+</button>
+</div></div></div></div></div></header>
+	<main id="main" class="site-main hfeed">
+
+		
+	<div class="ct-container-full" data-content="normal">
+
+		
+		
+	<article id="post-1142" class="post-1142 page type-page status-publish hentry">
+
+		
+		
+		
+		<div class="entry-content">
+					<div data-elementor-type="wp-page" data-elementor-id="1142" class="elementor elementor-1142">
+							<div class="elementor-element elementor-element-fc247ae e-con-full e-flex e-con e-parent" data-id="fc247ae" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;background_background&quot;:&quot;slideshow&quot;,&quot;background_slideshow_gallery&quot;:[{&quot;id&quot;:1604,&quot;url&quot;:&quot;https:\/\/tayyabtution.rf.gd\/wp-content\/uploads\/2023\/11\/1_E4zUTDkH4NS-MFlFz1WIPg.jpg&quot;},{&quot;id&quot;:1603,&quot;url&quot;:&quot;https:\/\/tayyabtution.rf.gd\/wp-content\/uploads\/2023\/11\/Turning-Point-Institute-Paschim-Vihar-Delhi-47-570x350-1.jpg&quot;},{&quot;id&quot;:1602,&quot;url&quot;:&quot;https:\/\/tayyabtution.rf.gd\/wp-content\/uploads\/2023\/11\/spardhabelaku-coaching-center-srinagar-dharwad-tutorials-j1wnoizkqo.jpg&quot;},{&quot;id&quot;:1528,&quot;url&quot;:&quot;https:\/\/tayyabtution.rf.gd\/wp-content\/uploads\/2023\/10\/IMG-20131114-WA0010.jpg&quot;}],&quot;background_slideshow_slide_duration&quot;:2500,&quot;background_slideshow_loop&quot;:&quot;yes&quot;,&quot;background_slideshow_slide_transition&quot;:&quot;fade&quot;,&quot;background_slideshow_transition_duration&quot;:500}" data-core-v316-plus="true"><div class="elementor-background-slideshow swiper swiper-fade swiper-initialized swiper-horizontal swiper-pointer-events swiper-rtl swiper-watch-progress" dir="rtl"><div class="swiper-wrapper" id="swiper-wrapper-39cd26a690c89bf1" aria-live="off" style="transition-duration: 0ms;"><div class="elementor-background-slideshow__slide swiper-slide swiper-slide-duplicate" data-swiper-slide-index="0" style="width: 794px; transition-duration: 0ms; opacity: 0; transform: translate3d(0px, 0px, 0px);" role="group" aria-label="1 / 4"><div class="elementor-background-slideshow__slide__image" style="background-image: url(&quot;https://tayyabtution.rf.gd/wp-content/uploads/2023/11/1_E4zUTDkH4NS-MFlFz1WIPg.jpg&quot;);"></div></div><div class="elementor-background-slideshow__slide swiper-slide swiper-slide-duplicate" data-swiper-slide-index="1" style="width: 794px; transition-duration: 0ms; opacity: 0; transform: translate3d(794px, 0px, 0px);" role="group" aria-label="2 / 4"><div class="elementor-background-slideshow__slide__image" style="background-image: url(&quot;https://tayyabtution.rf.gd/wp-content/uploads/2023/11/Turning-Point-Institute-Paschim-Vihar-Delhi-47-570x350-1.jpg&quot;);"></div></div><div class="elementor-background-slideshow__slide swiper-slide swiper-slide-duplicate swiper-slide-duplicate-prev" data-swiper-slide-index="2" style="width: 794px; transition-duration: 0ms; opacity: 0; transform: translate3d(1588px, 0px, 0px);" role="group" aria-label="3 / 4"><div class="elementor-background-slideshow__slide__image" style="background-image: url(&quot;https://tayyabtution.rf.gd/wp-content/uploads/2023/11/spardhabelaku-coaching-center-srinagar-dharwad-tutorials-j1wnoizkqo.jpg&quot;);"></div></div><div class="elementor-background-slideshow__slide swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="3" style="width: 794px; transition-duration: 0ms; opacity: 0; transform: translate3d(2382px, 0px, 0px);" role="group" aria-label="4 / 4"><div class="elementor-background-slideshow__slide__image" style="background-image: url(&quot;https://tayyabtution.rf.gd/wp-content/uploads/2023/10/IMG-20131114-WA0010.jpg&quot;);"></div></div><div class="elementor-background-slideshow__slide swiper-slide swiper-slide-duplicate-next" data-swiper-slide-index="0" style="width: 794px; transition-duration: 0ms; opacity: 0; transform: translate3d(3176px, 0px, 0px);" role="group" aria-label="1 / 4"><div class="elementor-background-slideshow__slide__image" style="background-image: url(&quot;https://tayyabtution.rf.gd/wp-content/uploads/2023/11/1_E4zUTDkH4NS-MFlFz1WIPg.jpg&quot;);"></div></div><div class="elementor-background-slideshow__slide swiper-slide" data-swiper-slide-index="1" style="width: 794px; transition-duration: 0ms; opacity: 0; transform: translate3d(3970px, 0px, 0px);" role="group" aria-label="2 / 4"><div class="elementor-background-slideshow__slide__image" style="background-image: url(&quot;https://tayyabtution.rf.gd/wp-content/uploads/2023/11/Turning-Point-Institute-Paschim-Vihar-Delhi-47-570x350-1.jpg&quot;);"></div></div><div class="elementor-background-slideshow__slide swiper-slide swiper-slide-prev" data-swiper-slide-index="2" style="width: 794px; transition-duration: 0ms; opacity: 0; transform: translate3d(4764px, 0px, 0px);" role="group" aria-label="3 / 4"><div class="elementor-background-slideshow__slide__image" style="background-image: url(&quot;https://tayyabtution.rf.gd/wp-content/uploads/2023/11/spardhabelaku-coaching-center-srinagar-dharwad-tutorials-j1wnoizkqo.jpg&quot;);"></div></div><div class="elementor-background-slideshow__slide swiper-slide swiper-slide-visible swiper-slide-active" data-swiper-slide-index="3" style="width: 794px; transition-duration: 0ms; opacity: 1; transform: translate3d(5558px, 0px, 0px);" role="group" aria-label="4 / 4"><div class="elementor-background-slideshow__slide__image" style="background-image: url(&quot;https://tayyabtution.rf.gd/wp-content/uploads/2023/10/IMG-20131114-WA0010.jpg&quot;);"></div></div><div class="elementor-background-slideshow__slide swiper-slide swiper-slide-duplicate swiper-slide-next" data-swiper-slide-index="0" style="width: 794px; transition-duration: 0ms; opacity: 0; transform: translate3d(6352px, 0px, 0px);" role="group" aria-label="1 / 4"><div class="elementor-background-slideshow__slide__image" style="background-image: url(&quot;https://tayyabtution.rf.gd/wp-content/uploads/2023/11/1_E4zUTDkH4NS-MFlFz1WIPg.jpg&quot;);"></div></div><div class="elementor-background-slideshow__slide swiper-slide swiper-slide-duplicate" data-swiper-slide-index="1" style="width: 794px; transition-duration: 0ms; opacity: 0; transform: translate3d(7146px, 0px, 0px);" role="group" aria-label="2 / 4"><div class="elementor-background-slideshow__slide__image" style="background-image: url(&quot;https://tayyabtution.rf.gd/wp-content/uploads/2023/11/Turning-Point-Institute-Paschim-Vihar-Delhi-47-570x350-1.jpg&quot;);"></div></div><div class="elementor-background-slideshow__slide swiper-slide swiper-slide-duplicate swiper-slide-duplicate-prev" data-swiper-slide-index="2" style="width: 794px; transition-duration: 0ms; opacity: 0; transform: translate3d(7940px, 0px, 0px);" role="group" aria-label="3 / 4"><div class="elementor-background-slideshow__slide__image" style="background-image: url(&quot;https://tayyabtution.rf.gd/wp-content/uploads/2023/11/spardhabelaku-coaching-center-srinagar-dharwad-tutorials-j1wnoizkqo.jpg&quot;);"></div></div><div class="elementor-background-slideshow__slide swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="3" role="group" aria-label="4 / 4" style="width: 794px; transition-duration: 0ms; opacity: 0; transform: translate3d(8734px, 0px, 0px);"><div class="elementor-background-slideshow__slide__image" style="background-image: url(&quot;https://tayyabtution.rf.gd/wp-content/uploads/2023/10/IMG-20131114-WA0010.jpg&quot;);"></div></div></div><span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+		<div class="elementor-element elementor-element-b55f7a3 e-flex e-con-boxed e-con e-child" data-id="b55f7a3" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-88c46f2 elementor-widget elementor-widget-heading" data-id="88c46f2" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.17.0 - 08-11-2023 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h2 class="elementor-heading-title elementor-size-default">Education<br>for all Children</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-56b9cc9 elementor-widget elementor-widget-text-editor" data-id="56b9cc9" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.17.0 - 08-11-2023 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>We provide Education 8th to 12th.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-fbe19b6 elementor-mobile-align-center elementor-align-left elementor-widget elementor-widget-button" data-id="fbe19b6" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a class="elementor-button elementor-button-link elementor-size-sm" href="#">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">More Details</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-9bc0180 e-con-full e-flex e-con e-parent" data-id="9bc0180" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}" data-core-v316-plus="true">
+		<div class="elementor-element elementor-element-b96a016 e-flex e-con-boxed e-con e-child" data-id="b96a016" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-e437b60 e-con-full e-flex e-con e-child" data-id="e437b60" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-34410dc elementor-position-top elementor-widget elementor-widget-image-box" data-id="34410dc" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.17.0 - 08-11-2023 */
+.elementor-widget-image-box .elementor-image-box-content{width:100%}@media (min-width:768px){.elementor-widget-image-box.elementor-position-left .elementor-image-box-wrapper,.elementor-widget-image-box.elementor-position-right .elementor-image-box-wrapper{display:flex}.elementor-widget-image-box.elementor-position-right .elementor-image-box-wrapper{text-align:right;flex-direction:row-reverse}.elementor-widget-image-box.elementor-position-left .elementor-image-box-wrapper{text-align:left;flex-direction:row}.elementor-widget-image-box.elementor-position-top .elementor-image-box-img{margin:auto}.elementor-widget-image-box.elementor-vertical-align-top .elementor-image-box-wrapper{align-items:flex-start}.elementor-widget-image-box.elementor-vertical-align-middle .elementor-image-box-wrapper{align-items:center}.elementor-widget-image-box.elementor-vertical-align-bottom .elementor-image-box-wrapper{align-items:flex-end}}@media (max-width:767px){.elementor-widget-image-box .elementor-image-box-img{margin-left:auto!important;margin-right:auto!important;margin-bottom:15px}}.elementor-widget-image-box .elementor-image-box-img{display:inline-block}.elementor-widget-image-box .elementor-image-box-title a{color:inherit}.elementor-widget-image-box .elementor-image-box-wrapper{text-align:center}.elementor-widget-image-box .elementor-image-box-description{margin:0}</style><div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img decoding="async" fetchpriority="high" width="222" height="227" src="https://tayyabtution.rf.gd/wp-content/uploads/2023/11/download-removebg-preview.png" class="attachment-full size-full wp-image-1656" alt=""></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Best Faculty</h3><p class="elementor-image-box-description">Best faculty varies by personal preferences and needs. Look for expertise, teaching style, and support that aligns with your goals.</p></div></div>		</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-6ebf126 e-con-full e-flex e-con e-child" data-id="6ebf126" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-0bcc539 elementor-position-top elementor-widget elementor-widget-image-box" data-id="0bcc539" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img decoding="async" width="360" height="387" src="https://tayyabtution.rf.gd/wp-content/uploads/2023/11/pngtree-reading-comprehension-english-test-paper-image_1468557-removebg-preview.png" class="attachment-full size-full wp-image-1657" alt="" srcset="https://tayyabtution.rf.gd/wp-content/uploads/2023/11/pngtree-reading-comprehension-english-test-paper-image_1468557-removebg-preview.png 360w, https://tayyabtution.rf.gd/wp-content/uploads/2023/11/pngtree-reading-comprehension-english-test-paper-image_1468557-removebg-preview-279x300.png 279w" sizes="(max-width: 360px) 100vw, 360px"></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Weakly Test</h3><p class="elementor-image-box-description">Evaluate progress efficiently with our weekly tests, ensuring consistent growth and targeted improvement in student performance."</p></div></div>		</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-86e8c01 e-con-full e-flex e-con e-child" data-id="86e8c01" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-6f2ea52 elementor-position-top elementor-widget elementor-widget-image-box" data-id="6f2ea52" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img decoding="async" width="200" height="200" src="https://tayyabtution.rf.gd/wp-content/uploads/2023/11/star-student-academy-logo-concept-vector-removebg-preview.png" class="attachment-1536x1536 size-1536x1536 wp-image-1658" alt="" srcset="https://tayyabtution.rf.gd/wp-content/uploads/2023/11/star-student-academy-logo-concept-vector-removebg-preview.png 200w, https://tayyabtution.rf.gd/wp-content/uploads/2023/11/star-student-academy-logo-concept-vector-removebg-preview-150x150.png 150w" sizes="(max-width: 200px) 100vw, 200px"></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Get best Result </h3><p class="elementor-image-box-description">Achieve academic excellence with our tailored approach, experienced faculty, and personalized support, ensuring the best results for every student.</p></div></div>		</div>
+				</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-8340c4a e-con-full e-flex e-con e-parent" data-id="8340c4a" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;full&quot;}" data-core-v316-plus="true">
+		<div class="elementor-element elementor-element-8f3e6d2 e-con-full e-flex e-con e-child" data-id="8f3e6d2" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;background_background&quot;:&quot;slideshow&quot;,&quot;background_slideshow_gallery&quot;:[{&quot;id&quot;:1671,&quot;url&quot;:&quot;https:\/\/tayyabtution.rf.gd\/wp-content\/uploads\/2023\/11\/GettyImages-493189929-scaled-e1686763527938.jpg&quot;}],&quot;background_slideshow_loop&quot;:&quot;yes&quot;,&quot;background_slideshow_slide_duration&quot;:5000,&quot;background_slideshow_slide_transition&quot;:&quot;fade&quot;,&quot;background_slideshow_transition_duration&quot;:500}"><div class="elementor-background-slideshow swiper" dir="rtl"><div class="swiper-wrapper"><div class="elementor-background-slideshow__slide swiper-slide"><div class="elementor-background-slideshow__slide__image" style="background-image: url(&quot;https://tayyabtution.rf.gd/wp-content/uploads/2023/11/GettyImages-493189929-scaled-e1686763527938.jpg&quot;);"></div></div></div></div>
+				</div>
+		<div class="elementor-element elementor-element-d6fae3b e-con-full e-flex e-con e-child" data-id="d6fae3b" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-15adb08 elementor-widget elementor-widget-elementskit-heading" data-id="15adb08" data-element_type="widget" data-widget_type="elementskit-heading.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con"><div class="ekit-heading elementskit-section-title-wraper text_left   ekit_heading_tablet-   ekit_heading_mobile-"><h3 class="elementskit-section-subtitle  ">
+						About
+					</h3><h2 class="ekit-heading--title elementskit-section-title ">Wecome to our  <span><span>Tayyab Tution</span></span>.</h2>				<div class="ekit-heading__description">
+					<p>Elevate education with our about section. Discover our mission, passionate faculty, and commitment to personalized learning. We strive to nurture a supportive environment, fostering academic growth and shaping bright futures. Join our community dedicated to excellence in education and empowering students for success</p>
+				</div>
+			</div></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-1c1aae0 elementor-button-info elementor-align-left elementor-widget elementor-widget-button" data-id="1c1aae0" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a class="elementor-button elementor-button-link elementor-size-md" href="">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Read More</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-f870ed9 e-flex e-con-boxed e-con e-parent" data-id="f870ed9" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-47c63ad elementor-widget elementor-widget-text-editor" data-id="47c63ad" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Our Class room</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-840081c elementor-widget elementor-widget-heading" data-id="840081c" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Our way to teach student</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-b9a8b50 elementor-widget elementor-widget-text-editor" data-id="b9a8b50" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Unlock knowledge with our expert educators covering diverse subjects. Our dedicated teachers bring passion and proficiency to every lesson, ensuring a comprehensive and enriching learning experience for students in all academic disciplines.</p>						</div>
+				</div>
+		<div class="elementor-element elementor-element-9ee127c e-con-full e-flex e-con e-child" data-id="9ee127c" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+		<div class="elementor-element elementor-element-e4f00ab e-con-full e-flex e-con e-child" data-id="e4f00ab" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+		<div class="elementor-element elementor-element-a6f9694 e-con-full e-flex e-con e-child" data-id="a6f9694" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-3c48f8d elementor-widget elementor-widget-text-editor" data-id="3c48f8d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Extra Classes</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-151b1a2 elementor-widget elementor-widget-heading" data-id="151b1a2" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h5 class="elementor-heading-title elementor-size-default">We provide extra classes</h5>		</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-f8977fa e-flex e-con-boxed e-con e-child" data-id="f8977fa" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;slideshow&quot;,&quot;content_width&quot;:&quot;boxed&quot;,&quot;background_slideshow_gallery&quot;:[],&quot;background_slideshow_loop&quot;:&quot;yes&quot;,&quot;background_slideshow_slide_duration&quot;:5000,&quot;background_slideshow_slide_transition&quot;:&quot;fade&quot;,&quot;background_slideshow_transition_duration&quot;:500}"><div class="elementor-background-slideshow swiper" dir="rtl"><div class="swiper-wrapper"></div></div>
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-99f0852 e-con-full e-flex e-con e-child" data-id="99f0852" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-2c6b90e elementor-widget elementor-widget-text-editor" data-id="2c6b90e" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Doubt &amp; Section</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-534149c elementor-widget elementor-widget-heading" data-id="534149c" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h5 class="elementor-heading-title elementor-size-default">Sit dapibus auctor</h5>		</div>
+				</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-d3b50c4 e-con-full e-flex e-con e-child" data-id="d3b50c4" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+		<div class="elementor-element elementor-element-ffd6f37 e-con-full e-flex e-con e-child" data-id="ffd6f37" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-d585abe elementor-widget elementor-widget-text-editor" data-id="d585abe" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Notes</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-9c34f41 elementor-widget elementor-widget-heading" data-id="9c34f41" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h5 class="elementor-heading-title elementor-size-default">PYQ and Topic while test</h5>		</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-616c4d2 e-con-full e-flex e-con e-child" data-id="616c4d2" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-bb04d4e elementor-widget elementor-widget-text-editor" data-id="bb04d4e" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Technology</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-d63ad94 elementor-widget elementor-widget-heading" data-id="d63ad94" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h5 class="elementor-heading-title elementor-size-default">We teach our student through technology</h5>		</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-c299f3c e-con-full e-flex e-con e-child" data-id="c299f3c" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-02b293a elementor-widget elementor-widget-text-editor" data-id="02b293a" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Weekly Test</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-69093bf elementor-widget elementor-widget-heading" data-id="69093bf" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h5 class="elementor-heading-title elementor-size-default">we provide weekly test</h5>		</div>
+				</div>
+				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-352098f e-con-full e-flex e-con e-parent" data-id="352098f" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;full&quot;}" data-core-v316-plus="true">
+		<div class="elementor-element elementor-element-8c12920 e-con-full e-flex e-con e-child" data-id="8c12920" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+		<div class="elementor-element elementor-element-7fb05f2 e-con-full e-flex e-con e-child" data-id="7fb05f2" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-68c74e4 elementor-widget elementor-widget-text-editor" data-id="68c74e4" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>We teaches&nbsp;</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-7e3fdbd elementor-widget elementor-widget-heading" data-id="7e3fdbd" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">We have Expert teachers for all Subject.</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-eff4a24 elementor-widget elementor-widget-text-editor" data-id="eff4a24" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Fusce dignissim blandit justo, eget elementum risus tristique. Nunc lacus lacus, sit amet accumsan est pulvinar non. Praesent tristique enim lorem. Phasellus a auctor lacus proin vitae accumsan nunc.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-a3c51e1 elementor-mobile-align-center elementor-tablet-align-center elementor-widget elementor-widget-button" data-id="a3c51e1" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a class="elementor-button elementor-button-link elementor-size-sm" href="#">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Explore More</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-ef73c76 e-con-full e-flex e-con e-child" data-id="ef73c76" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-722c14e elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="722c14e" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+			<link rel="stylesheet" href="https://tayyabtution.rf.gd/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css">		<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<a href="https://tayyabtution.rf.gd/services/" class="elementor-icon elementor-animation-" tabindex="-1">
+				<i aria-hidden="true" class="fas fa-space-shuttle"></i>				</a>
+			</div>
+						<div class="elementor-icon-box-content">
+				<h5 class="elementor-icon-box-title">
+					<a href="https://tayyabtution.rf.gd/services/">
+						JEE MAIN &amp; ADVANCE					</a>
+				</h5>
+									<p class="elementor-icon-box-description">
+						To Know more Click on icon  and know about Our Courses.					</p>
+							</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-c21cc22 elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="c21cc22" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<a href="https://tayyabtution.rf.gd/services/" class="elementor-icon elementor-animation-" tabindex="-1">
+				<i aria-hidden="true" class="fas fa-divide"></i>				</a>
+			</div>
+						<div class="elementor-icon-box-content">
+				<h5 class="elementor-icon-box-title">
+					<a href="https://tayyabtution.rf.gd/services/">
+						Board Exam					</a>
+				</h5>
+									<p class="elementor-icon-box-description">
+						To Know more Click on icon  and know about Our Courses.					</p>
+							</div>
+		</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-c586380 e-con-full e-flex e-con e-child" data-id="c586380" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-877babe elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="877babe" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<a href="https://tayyabtution.rf.gd/services/" class="elementor-icon elementor-animation-" tabindex="-1">
+				<i aria-hidden="true" class="fas fa-pump-medical"></i>				</a>
+			</div>
+						<div class="elementor-icon-box-content">
+				<h5 class="elementor-icon-box-title">
+					<a href="https://tayyabtution.rf.gd/services/">
+						NEET					</a>
+				</h5>
+									<p class="elementor-icon-box-description">
+						To Know more Click on icon  and know about Our Courses.					</p>
+							</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-cba3bb0 elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="cba3bb0" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<a href="https://tayyabtution.rf.gd/services/" class="elementor-icon elementor-animation-" tabindex="-1">
+				<i aria-hidden="true" class="fas fa-pastafarianism"></i>				</a>
+			</div>
+						<div class="elementor-icon-box-content">
+				<h5 class="elementor-icon-box-title">
+					<a href="https://tayyabtution.rf.gd/services/">
+						Other Enterance Exam					</a>
+				</h5>
+									<p class="elementor-icon-box-description">
+						To Know more Click on icon  and know about Our Courses.					</p>
+							</div>
+		</div>
+				</div>
+				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-af01e37 e-flex e-con-boxed e-con e-parent" data-id="af01e37" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-2b26293 e-con-full e-flex e-con e-child" data-id="2b26293" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-9ecfea3 elementor-widget elementor-widget-text-editor" data-id="9ecfea3" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>WDS</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-f411a88 elementor-widget elementor-widget-heading" data-id="f411a88" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Weekly Doubt Session</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-0df028c elementor-widget elementor-widget-text-editor" data-id="0df028c" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Integer at faucibus urna. Nullam condimentum leo id elit sagittis auctor. Curabitur elementum nunc a leo imperdiet, nec elementum diam elementum.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-d798b85 elementor-widget elementor-widget-accordion" data-id="d798b85" data-element_type="widget" data-widget_type="accordion.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.17.0 - 08-11-2023 */
+.elementor-accordion{text-align:left}.elementor-accordion .elementor-accordion-item{border:1px solid #d5d8dc}.elementor-accordion .elementor-accordion-item+.elementor-accordion-item{border-top:none}.elementor-accordion .elementor-tab-title{margin:0;padding:15px 20px;font-weight:700;line-height:1;cursor:pointer;outline:none}.elementor-accordion .elementor-tab-title .elementor-accordion-icon{display:inline-block;width:1.5em}.elementor-accordion .elementor-tab-title .elementor-accordion-icon svg{width:1em;height:1em}.elementor-accordion .elementor-tab-title .elementor-accordion-icon.elementor-accordion-icon-right{float:right;text-align:right}.elementor-accordion .elementor-tab-title .elementor-accordion-icon.elementor-accordion-icon-left{float:left;text-align:left}.elementor-accordion .elementor-tab-title .elementor-accordion-icon .elementor-accordion-icon-closed{display:block}.elementor-accordion .elementor-tab-title .elementor-accordion-icon .elementor-accordion-icon-opened,.elementor-accordion .elementor-tab-title.elementor-active .elementor-accordion-icon-closed{display:none}.elementor-accordion .elementor-tab-title.elementor-active .elementor-accordion-icon-opened{display:block}.elementor-accordion .elementor-tab-content{display:none;padding:15px 20px;border-top:1px solid #d5d8dc}@media (max-width:767px){.elementor-accordion .elementor-tab-title{padding:12px 15px}.elementor-accordion .elementor-tab-title .elementor-accordion-icon{width:1.2em}.elementor-accordion .elementor-tab-content{padding:7px 15px}}.e-con-inner>.elementor-widget-accordion,.e-con>.elementor-widget-accordion{width:var(--container-widget-width);--flex-grow:var(--container-widget-flex-grow)}</style>		<div class="elementor-accordion">
+							<div class="elementor-accordion-item">
+					<h6 id="elementor-tab-title-2261" class="elementor-tab-title elementor-active" data-tab="1" role="button" aria-controls="elementor-tab-content-2261" aria-expanded="true" tabindex="0" aria-selected="true">
+													<span class="elementor-accordion-icon elementor-accordion-icon-right" aria-hidden="true">
+															<span class="elementor-accordion-icon-closed"><i class="fas fa-chevron-down"></i></span>
+								<span class="elementor-accordion-icon-opened"><i class="fas fa-chevron-up"></i></span>
+														</span>
+												<a class="elementor-accordion-title" tabindex="0">We do quick Revision for previous  Chapter.</a>
+					</h6>
+					<div id="elementor-tab-content-2261" class="elementor-tab-content elementor-clearfix elementor-active" data-tab="1" role="region" aria-labelledby="elementor-tab-title-2261" style="display: block;"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p></div>
+				</div>
+							<div class="elementor-accordion-item">
+					<h6 id="elementor-tab-title-2262" class="elementor-tab-title" data-tab="2" role="button" aria-controls="elementor-tab-content-2262" aria-expanded="false">
+													<span class="elementor-accordion-icon elementor-accordion-icon-right" aria-hidden="true">
+															<span class="elementor-accordion-icon-closed"><i class="fas fa-chevron-down"></i></span>
+								<span class="elementor-accordion-icon-opened"><i class="fas fa-chevron-up"></i></span>
+														</span>
+												<a class="elementor-accordion-title" tabindex="0">Ask Question to Student .</a>
+					</h6>
+					<div id="elementor-tab-content-2262" class="elementor-tab-content elementor-clearfix" data-tab="2" role="region" aria-labelledby="elementor-tab-title-2262"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p></div>
+				</div>
+								</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-14a9559 e-con-full e-flex e-con e-child" data-id="14a9559" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-5127dd2 elementor-widget elementor-widget-image" data-id="5127dd2" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.17.0 - 08-11-2023 */
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img decoding="async" loading="lazy" width="650" height="501" src="https://tayyabtution.rf.gd/wp-content/uploads/2021/07/services-faq-image@2x.jpg" class="attachment-large size-large wp-image-237" alt="" srcset="https://tayyabtution.rf.gd/wp-content/uploads/2021/07/services-faq-image@2x.jpg 650w, https://tayyabtution.rf.gd/wp-content/uploads/2021/07/services-faq-image@2x-300x231.jpg 300w" sizes="(max-width: 650px) 100vw, 650px">															</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-3ce134c e-con-full e-flex e-con e-parent" data-id="3ce134c" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;background_background&quot;:&quot;classic&quot;}" data-core-v316-plus="true">
+		<div class="elementor-element elementor-element-4e8a821 e-con-full e-flex e-con e-child" data-id="4e8a821" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-5e14b60 elementor-widget elementor-widget-elementskit-heading" data-id="5e14b60" data-element_type="widget" data-widget_type="elementskit-heading.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con"><div class="ekit-heading elementskit-section-title-wraper text_left   ekit_heading_tablet-   ekit_heading_mobile-"><h3 class="elementskit-section-subtitle  ">
+						Our Student
+					</h3><h2 class="ekit-heading--title elementskit-section-title ">What our <br> student to say </h2>				<div class="ekit-heading__description">
+					<p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradise </p>
+				</div>
+			</div></div>		</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-c997577 e-con-full e-flex e-con e-child" data-id="c997577" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-1cbbf85 elementor-widget elementor-widget-elementskit-testimonial e-widget-swiper" data-id="1cbbf85" data-element_type="widget" data-widget_type="elementskit-testimonial.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con"><div class="elementskit-testimonial-slider ekit-testimonia-style-4 arrow_inside slider-dotted" data-config="{&quot;rtl&quot;:false,&quot;arrows&quot;:true,&quot;dots&quot;:true,&quot;pauseOnHover&quot;:true,&quot;autoplay&quot;:true,&quot;speed&quot;:1000,&quot;slidesPerGroup&quot;:1,&quot;slidesPerView&quot;:1,&quot;loop&quot;:true,&quot;breakpoints&quot;:{&quot;320&quot;:{&quot;slidesPerView&quot;:1,&quot;slidesPerGroup&quot;:1,&quot;spaceBetween&quot;:10},&quot;768&quot;:{&quot;slidesPerView&quot;:2,&quot;slidesPerGroup&quot;:1,&quot;spaceBetween&quot;:10},&quot;1024&quot;:{&quot;slidesPerView&quot;:1,&quot;slidesPerGroup&quot;:1,&quot;spaceBetween&quot;:15}}}">
+	<div class="ekit-main-swiper swiper swiper-initialized swiper-horizontal swiper-pointer-events swiper-backface-hidden">
+		<div class="swiper-wrapper" id="swiper-wrapper-471555d5b3134acf" aria-live="off" style="transform: translate3d(-814px, 0px, 0px); transition-duration: 0ms;"><div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-prev" style="width: 193.5px; margin-right: 10px;" role="group" aria-label="2 / 3" data-swiper-slide-index="1">
+					<div class="swiper-slide-inner">
+						<div class="elementskit-single-testimonial-slider elementskit-testimonial-slider-block-style  elementor-repeater-item-de43b9a">
+							<div class="elementskit-commentor-bio ">
+																	
+																		<div class="elementskit-commentor-image ekit-testimonial--avatar">
+										<img decoding="async" loading="lazy" width="2065" height="2560" src="https://tayyabtution.rf.gd/wp-content/uploads/2023/12/IMG_9015-scaled.jpg" class="attachment-full size-full" alt="" srcset="https://tayyabtution.rf.gd/wp-content/uploads/2023/12/IMG_9015-scaled.jpg 2065w, https://tayyabtution.rf.gd/wp-content/uploads/2023/12/IMG_9015-242x300.jpg 242w, https://tayyabtution.rf.gd/wp-content/uploads/2023/12/IMG_9015-826x1024.jpg 826w, https://tayyabtution.rf.gd/wp-content/uploads/2023/12/IMG_9015-768x952.jpg 768w, https://tayyabtution.rf.gd/wp-content/uploads/2023/12/IMG_9015-1239x1536.jpg 1239w, https://tayyabtution.rf.gd/wp-content/uploads/2023/12/IMG_9015-1652x2048.jpg 1652w" sizes="(max-width: 2065px) 100vw, 2065px">									</div>
+																									<span class="elementskit-profile-info">
+									<strong class="elementskit-author-name">Anas Alam</strong>
+									<span class="elementskit-author-des">JEE Student</span>
+								</span>
+							</div>
+							<div class="elementskit-commentor-content">
+																	
+									<span class="elementskit-watermark-icon ekit_watermark_icon_custom_position">
+										<i aria-hidden="true" class="icon icon-quote"></i>									</span>
+
+									
+
+																									<p>Aspiring engineering and medical students can enrol in the Foundation course right from the 9th class onward at Janakpuri Vidyapeeth to stay ahead in their preparation. The batches for IIT JEE and NEET at these Vidyapeeth coaching centres are divided as per the target years of aspirants.</p>
+																								<ul class="elementskit-stars">
+																			<li><a><i class="eicon-star active"></i></a></li>
+																			<li><a><i class="eicon-star active"></i></a></li>
+																			<li><a><i class="eicon-star active"></i></a></li>
+																			<li><a><i class="eicon-star active"></i></a></li>
+																			<li><a><i class="eicon-star active"></i></a></li>
+																	</ul>
+															</div><!-- .commentor-content END -->
+						</div>
+					</div>
+				</div><div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" style="width: 193.5px; margin-right: 10px;" role="group" aria-label="3 / 3" data-swiper-slide-index="2">
+					<div class="swiper-slide-inner">
+						<div class="elementskit-single-testimonial-slider elementskit-testimonial-slider-block-style  elementor-repeater-item-cd01ab1">
+							<div class="elementskit-commentor-bio ">
+																	
+																		<div class="elementskit-commentor-image ekit-testimonial--avatar">
+										<img decoding="async" loading="lazy" width="2065" height="2560" src="https://tayyabtution.rf.gd/wp-content/uploads/2023/12/IMG_9015-scaled.jpg" class="attachment-full size-full" alt="" srcset="https://tayyabtution.rf.gd/wp-content/uploads/2023/12/IMG_9015-scaled.jpg 2065w, https://tayyabtution.rf.gd/wp-content/uploads/2023/12/IMG_9015-242x300.jpg 242w, https://tayyabtution.rf.gd/wp-content/uploads/2023/12/IMG_9015-826x1024.jpg 826w, https://tayyabtution.rf.gd/wp-content/uploads/2023/12/IMG_9015-768x952.jpg 768w, https://tayyabtution.rf.gd/wp-content/uploads/2023/12/IMG_9015-1239x1536.jpg 1239w, https://tayyabtution.rf.gd/wp-content/uploads/2023/12/IMG_9015-1652x2048.jpg 1652w" sizes="(max-width: 2065px) 100vw, 2065px">									</div>
+																									<span class="elementskit-profile-info">
+									<strong class="elementskit-author-name">Anas Alam</strong>
+									<span class="elementskit-author-des">JEE Student</span>
+								</span>
+							</div>
+							<div class="elementskit-commentor-content">
+																	
+									<span class="elementskit-watermark-icon ekit_watermark_icon_custom_position">
+										<i aria-hidden="true" class="icon icon-quote"></i>									</span>
+
+									
+
+																									<p>Aspiring engineering and medical students can enrol in the Foundation course right from the 9th class onward at Janakpuri Vidyapeeth to stay ahead in their preparation. The batches for IIT JEE and NEET at these Vidyapeeth coaching centres are divided as per the target years of aspirants.</p>
+																								<ul class="elementskit-stars">
+																			<li><a><i class="eicon-star active"></i></a></li>
+																			<li><a><i class="eicon-star active"></i></a></li>
+																			<li><a><i class="eicon-star active"></i></a></li>
+																			<li><a><i class="eicon-star active"></i></a></li>
+																			<li><a><i class="eicon-star active"></i></a></li>
+																	</ul>
+															</div><!-- .commentor-content END -->
+						</div>
+					</div>
+				</div>
+							<div class="swiper-slide swiper-slide-duplicate-next" style="width: 193.5px; margin-right: 10px;" role="group" aria-label="1 / 3" data-swiper-slide-index="0">
+					<div class="swiper-slide-inner">
+						<div class="elementskit-single-testimonial-slider elementskit-testimonial-slider-block-style  elementor-repeater-item-eeeb3df">
+							<div class="elementskit-commentor-bio ">
+																	
+																		<div class="elementskit-commentor-image ekit-testimonial--avatar">
+										<img decoding="async" loading="lazy" width="2065" height="2560" src="https://tayyabtution.rf.gd/wp-content/uploads/2023/12/IMG_9015-scaled.jpg" class="attachment-full size-full" alt="" srcset="https://tayyabtution.rf.gd/wp-content/uploads/2023/12/IMG_9015-scaled.jpg 2065w, https://tayyabtution.rf.gd/wp-content/uploads/2023/12/IMG_9015-242x300.jpg 242w, https://tayyabtution.rf.gd/wp-content/uploads/2023/12/IMG_9015-826x1024.jpg 826w, https://tayyabtution.rf.gd/wp-content/uploads/2023/12/IMG_9015-768x952.jpg 768w, https://tayyabtution.rf.gd/wp-content/uploads/2023/12/IMG_9015-1239x1536.jpg 1239w, https://tayyabtution.rf.gd/wp-content/uploads/2023/12/IMG_9015-1652x2048.jpg 1652w" sizes="(max-width: 2065px) 100vw, 2065px">									</div>
+																									<span class="elementskit-profile-info">
+									<strong class="elementskit-author-name">Anas Alam</strong>
+									<span class="elementskit-author-des">JEE Student</span>
+								</span>
+							</div>
+							<div class="elementskit-commentor-content">
+																	
+									<span class="elementskit-watermark-icon ekit_watermark_icon_custom_position">
+										<i aria-hidden="true" class="icon icon-quote"></i>									</span>
+
+									
+
+																									<p>Aspiring engineering and medical students can enrol in the Foundation course right from the 9th class onward at Janakpuri Vidyapeeth to stay ahead in their preparation. The batches for IIT JEE and NEET at these Vidyapeeth coaching centres are divided as per the target years of aspirants.</p>
+																								<ul class="elementskit-stars">
+																			<li><a><i class="eicon-star active"></i></a></li>
+																			<li><a><i class="eicon-star active"></i></a></li>
+																			<li><a><i class="eicon-star active"></i></a></li>
+																			<li><a><i class="eicon-star active"></i></a></li>
+																			<li><a><i class="eicon-star active"></i></a></li>
+																	</ul>
+															</div><!-- .commentor-content END -->
+						</div>
+					</div>
+				</div>
+							<div class="swiper-slide swiper-slide-prev" style="width: 193.5px; margin-right: 10px;" role="group" aria-label="2 / 3" data-swiper-slide-index="1">
+					<div class="swiper-slide-inner">
+						<div class="elementskit-single-testimonial-slider elementskit-testimonial-slider-block-style  elementor-repeater-item-de43b9a">
+							<div class="elementskit-commentor-bio ">
+																	
+																		<div class="elementskit-commentor-image ekit-testimonial--avatar">
+										<img decoding="async" loading="lazy" width="2065" height="2560" src="https://tayyabtution.rf.gd/wp-content/uploads/2023/12/IMG_9015-scaled.jpg" class="attachment-full size-full" alt="" srcset="https://tayyabtution.rf.gd/wp-content/uploads/2023/12/IMG_9015-scaled.jpg 2065w, https://tayyabtution.rf.gd/wp-content/uploads/2023/12/IMG_9015-242x300.jpg 242w, https://tayyabtution.rf.gd/wp-content/uploads/2023/12/IMG_9015-826x1024.jpg 826w, https://tayyabtution.rf.gd/wp-content/uploads/2023/12/IMG_9015-768x952.jpg 768w, https://tayyabtution.rf.gd/wp-content/uploads/2023/12/IMG_9015-1239x1536.jpg 1239w, https://tayyabtution.rf.gd/wp-content/uploads/2023/12/IMG_9015-1652x2048.jpg 1652w" sizes="(max-width: 2065px) 100vw, 2065px">									</div>
+																									<span class="elementskit-profile-info">
+									<strong class="elementskit-author-name">Anas Alam</strong>
+									<span class="elementskit-author-des">JEE Student</span>
+								</span>
+							</div>
+							<div class="elementskit-commentor-content">
+																	
+									<span class="elementskit-watermark-icon ekit_watermark_icon_custom_position">
+										<i aria-hidden="true" class="icon icon-quote"></i>									</span>
+
+									
+
+																									<p>Aspiring engineering and medical students can enrol in the Foundation course right from the 9th class onward at Janakpuri Vidyapeeth to stay ahead in their preparation. The batches for IIT JEE and NEET at these Vidyapeeth coaching centres are divided as per the target years of aspirants.</p>
+																								<ul class="elementskit-stars">
+																			<li><a><i class="eicon-star active"></i></a></li>
+																			<li><a><i class="eicon-star active"></i></a></li>
+																			<li><a><i class="eicon-star active"></i></a></li>
+																			<li><a><i class="eicon-star active"></i></a></li>
+																			<li><a><i class="eicon-star active"></i></a></li>
+																	</ul>
+															</div><!-- .commentor-content END -->
+						</div>
+					</div>
+				</div>
+							<div class="swiper-slide swiper-slide-active" style="width: 193.5px; margin-right: 10px;" role="group" aria-label="3 / 3" data-swiper-slide-index="2">
+					<div class="swiper-slide-inner">
+						<div class="elementskit-single-testimonial-slider elementskit-testimonial-slider-block-style  elementor-repeater-item-cd01ab1">
+							<div class="elementskit-commentor-bio ">
+																	
+																		<div class="elementskit-commentor-image ekit-testimonial--avatar">
+										<img decoding="async" loading="lazy" width="2065" height="2560" src="https://tayyabtution.rf.gd/wp-content/uploads/2023/12/IMG_9015-scaled.jpg" class="attachment-full size-full" alt="" srcset="https://tayyabtution.rf.gd/wp-content/uploads/2023/12/IMG_9015-scaled.jpg 2065w, https://tayyabtution.rf.gd/wp-content/uploads/2023/12/IMG_9015-242x300.jpg 242w, https://tayyabtution.rf.gd/wp-content/uploads/2023/12/IMG_9015-826x1024.jpg 826w, https://tayyabtution.rf.gd/wp-content/uploads/2023/12/IMG_9015-768x952.jpg 768w, https://tayyabtution.rf.gd/wp-content/uploads/2023/12/IMG_9015-1239x1536.jpg 1239w, https://tayyabtution.rf.gd/wp-content/uploads/2023/12/IMG_9015-1652x2048.jpg 1652w" sizes="(max-width: 2065px) 100vw, 2065px">									</div>
+																									<span class="elementskit-profile-info">
+									<strong class="elementskit-author-name">Anas Alam</strong>
+									<span class="elementskit-author-des">JEE Student</span>
+								</span>
+							</div>
+							<div class="elementskit-commentor-content">
+																	
+									<span class="elementskit-watermark-icon ekit_watermark_icon_custom_position">
+										<i aria-hidden="true" class="icon icon-quote"></i>									</span>
+
+									
+
+																									<p>Aspiring engineering and medical students can enrol in the Foundation course right from the 9th class onward at Janakpuri Vidyapeeth to stay ahead in their preparation. The batches for IIT JEE and NEET at these Vidyapeeth coaching centres are divided as per the target years of aspirants.</p>
+																								<ul class="elementskit-stars">
+																			<li><a><i class="eicon-star active"></i></a></li>
+																			<li><a><i class="eicon-star active"></i></a></li>
+																			<li><a><i class="eicon-star active"></i></a></li>
+																			<li><a><i class="eicon-star active"></i></a></li>
+																			<li><a><i class="eicon-star active"></i></a></li>
+																	</ul>
+															</div><!-- .commentor-content END -->
+						</div>
+					</div>
+				</div>
+					<div class="swiper-slide swiper-slide-duplicate swiper-slide-next" style="width: 193.5px; margin-right: 10px;" role="group" aria-label="1 / 3" data-swiper-slide-index="0">
+					<div class="swiper-slide-inner">
+						<div class="elementskit-single-testimonial-slider elementskit-testimonial-slider-block-style  elementor-repeater-item-eeeb3df">
+							<div class="elementskit-commentor-bio ">
+																	
+																		<div class="elementskit-commentor-image ekit-testimonial--avatar">
+										<img decoding="async" loading="lazy" width="2065" height="2560" src="https://tayyabtution.rf.gd/wp-content/uploads/2023/12/IMG_9015-scaled.jpg" class="attachment-full size-full" alt="" srcset="https://tayyabtution.rf.gd/wp-content/uploads/2023/12/IMG_9015-scaled.jpg 2065w, https://tayyabtution.rf.gd/wp-content/uploads/2023/12/IMG_9015-242x300.jpg 242w, https://tayyabtution.rf.gd/wp-content/uploads/2023/12/IMG_9015-826x1024.jpg 826w, https://tayyabtution.rf.gd/wp-content/uploads/2023/12/IMG_9015-768x952.jpg 768w, https://tayyabtution.rf.gd/wp-content/uploads/2023/12/IMG_9015-1239x1536.jpg 1239w, https://tayyabtution.rf.gd/wp-content/uploads/2023/12/IMG_9015-1652x2048.jpg 1652w" sizes="(max-width: 2065px) 100vw, 2065px">									</div>
+																									<span class="elementskit-profile-info">
+									<strong class="elementskit-author-name">Anas Alam</strong>
+									<span class="elementskit-author-des">JEE Student</span>
+								</span>
+							</div>
+							<div class="elementskit-commentor-content">
+																	
+									<span class="elementskit-watermark-icon ekit_watermark_icon_custom_position">
+										<i aria-hidden="true" class="icon icon-quote"></i>									</span>
+
+									
+
+																									<p>Aspiring engineering and medical students can enrol in the Foundation course right from the 9th class onward at Janakpuri Vidyapeeth to stay ahead in their preparation. The batches for IIT JEE and NEET at these Vidyapeeth coaching centres are divided as per the target years of aspirants.</p>
+																								<ul class="elementskit-stars">
+																			<li><a><i class="eicon-star active"></i></a></li>
+																			<li><a><i class="eicon-star active"></i></a></li>
+																			<li><a><i class="eicon-star active"></i></a></li>
+																			<li><a><i class="eicon-star active"></i></a></li>
+																			<li><a><i class="eicon-star active"></i></a></li>
+																	</ul>
+															</div><!-- .commentor-content END -->
+						</div>
+					</div>
+				</div><div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-prev" style="width: 193.5px; margin-right: 10px;" role="group" aria-label="2 / 3" data-swiper-slide-index="1">
+					<div class="swiper-slide-inner">
+						<div class="elementskit-single-testimonial-slider elementskit-testimonial-slider-block-style  elementor-repeater-item-de43b9a">
+							<div class="elementskit-commentor-bio ">
+																	
+																		<div class="elementskit-commentor-image ekit-testimonial--avatar">
+										<img decoding="async" loading="lazy" width="2065" height="2560" src="https://tayyabtution.rf.gd/wp-content/uploads/2023/12/IMG_9015-scaled.jpg" class="attachment-full size-full" alt="" srcset="https://tayyabtution.rf.gd/wp-content/uploads/2023/12/IMG_9015-scaled.jpg 2065w, https://tayyabtution.rf.gd/wp-content/uploads/2023/12/IMG_9015-242x300.jpg 242w, https://tayyabtution.rf.gd/wp-content/uploads/2023/12/IMG_9015-826x1024.jpg 826w, https://tayyabtution.rf.gd/wp-content/uploads/2023/12/IMG_9015-768x952.jpg 768w, https://tayyabtution.rf.gd/wp-content/uploads/2023/12/IMG_9015-1239x1536.jpg 1239w, https://tayyabtution.rf.gd/wp-content/uploads/2023/12/IMG_9015-1652x2048.jpg 1652w" sizes="(max-width: 2065px) 100vw, 2065px">									</div>
+																									<span class="elementskit-profile-info">
+									<strong class="elementskit-author-name">Anas Alam</strong>
+									<span class="elementskit-author-des">JEE Student</span>
+								</span>
+							</div>
+							<div class="elementskit-commentor-content">
+																	
+									<span class="elementskit-watermark-icon ekit_watermark_icon_custom_position">
+										<i aria-hidden="true" class="icon icon-quote"></i>									</span>
+
+									
+
+																									<p>Aspiring engineering and medical students can enrol in the Foundation course right from the 9th class onward at Janakpuri Vidyapeeth to stay ahead in their preparation. The batches for IIT JEE and NEET at these Vidyapeeth coaching centres are divided as per the target years of aspirants.</p>
+																								<ul class="elementskit-stars">
+																			<li><a><i class="eicon-star active"></i></a></li>
+																			<li><a><i class="eicon-star active"></i></a></li>
+																			<li><a><i class="eicon-star active"></i></a></li>
+																			<li><a><i class="eicon-star active"></i></a></li>
+																			<li><a><i class="eicon-star active"></i></a></li>
+																	</ul>
+															</div><!-- .commentor-content END -->
+						</div>
+					</div>
+				</div></div>
+
+					<div class="swiper-pagination swiper-pagination-clickable swiper-pagination-bullets swiper-pagination-horizontal"><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 1"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 2"></span><span class="swiper-pagination-bullet swiper-pagination-bullet-active" tabindex="0" role="button" aria-label="Go to slide 3" aria-current="true"></span></div>
+		
+					<div class="swiper-navigation-button swiper-button-prev" tabindex="0" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-471555d5b3134acf"><i class=""></i></div>
+			<div class="swiper-navigation-button swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-471555d5b3134acf"><i class=""></i></div>
+			<span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+</div></div>		</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-4efaa30 e-con-full e-flex e-con e-parent" data-id="4efaa30" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;full&quot;}" data-core-v316-plus="true">
+		<div class="elementor-element elementor-element-d35fcba e-flex e-con-boxed e-con e-child" data-id="d35fcba" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;slideshow&quot;,&quot;content_width&quot;:&quot;boxed&quot;,&quot;background_slideshow_gallery&quot;:[],&quot;background_slideshow_loop&quot;:&quot;yes&quot;,&quot;background_slideshow_slide_duration&quot;:5000,&quot;background_slideshow_slide_transition&quot;:&quot;fade&quot;,&quot;background_slideshow_transition_duration&quot;:500}"><div class="elementor-background-slideshow swiper" dir="rtl"><div class="swiper-wrapper"></div></div>
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-6e67d1c elementor-widget-mobile__width-inherit elementor-widget__width-initial elementor-widget elementor-widget-counter" data-id="6e67d1c" data-element_type="widget" data-widget_type="counter.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.17.0 - 08-11-2023 */
+.elementor-counter .elementor-counter-number-wrapper{display:flex;font-size:69px;font-weight:600;line-height:1}.elementor-counter .elementor-counter-number-prefix,.elementor-counter .elementor-counter-number-suffix{flex-grow:1;white-space:pre-wrap}.elementor-counter .elementor-counter-number-prefix{text-align:right}.elementor-counter .elementor-counter-number-suffix{text-align:left}.elementor-counter .elementor-counter-title{text-align:center;font-size:19px;font-weight:400;line-height:2.5}</style>		<div class="elementor-counter">
+			<div class="elementor-counter-number-wrapper">
+				<span class="elementor-counter-number-prefix"></span>
+				<span class="elementor-counter-number" data-duration="2000" data-to-value="1000" data-from-value="0" data-delimiter=",">0</span>
+				<span class="elementor-counter-number-suffix">+</span>
+			</div>
+							<div class="elementor-counter-title">Satisfied</div>
+					</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-e899c17 elementor-widget-mobile__width-inherit elementor-widget elementor-widget-image" data-id="e899c17" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" loading="lazy" width="250" height="154" src="https://tayyabtution.rf.gd/wp-content/uploads/2023/10/83pl2a-LogoMakr.png" class="attachment-large size-large wp-image-1477" alt="">															</div>
+				</div>
+				<div class="elementor-element elementor-element-d37262f elementor-widget-mobile__width-inherit elementor-widget elementor-widget-image" data-id="d37262f" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" loading="lazy" width="250" height="134" src="https://tayyabtution.rf.gd/wp-content/uploads/2023/10/6kI9Qb-LogoMakr.png" class="attachment-large size-large wp-image-1478" alt="">															</div>
+				</div>
+				<div class="elementor-element elementor-element-a329f9e elementor-widget-mobile__width-inherit elementor-widget elementor-widget-image" data-id="a329f9e" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" loading="lazy" width="250" height="87" src="https://tayyabtution.rf.gd/wp-content/uploads/2023/10/2EstVK-LogoMakr.png" class="attachment-large size-large wp-image-1479" alt="">															</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-7386615 e-con-full e-flex e-con e-parent" data-id="7386615" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;background_background&quot;:&quot;classic&quot;}" data-core-v316-plus="true">
+				<div class="elementor-element elementor-element-fa1a590 elementor-widget elementor-widget-elementskit-heading" data-id="fa1a590" data-element_type="widget" data-widget_type="elementskit-heading.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con"><div class="ekit-heading elementskit-section-title-wraper text_center   ekit_heading_tablet-   ekit_heading_mobile-"><h3 class="elementskit-section-subtitle  ">
+						You can Learn
+					</h3><h2 class="ekit-heading--title elementskit-section-title ">Our Expert Teacher</h2></div></div>		</div>
+				</div>
+		<div class="elementor-element elementor-element-39a264a e-flex e-con-boxed e-con e-child" data-id="39a264a" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-6ff4cc8 ekit-testimonial-fade elementor-widget-tablet__width-initial elementor-widget elementor-widget-elementskit-testimonial e-widget-swiper" data-id="6ff4cc8" data-element_type="widget" data-widget_type="elementskit-testimonial.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con"><div class="elementskit-testimonial-slider ekit_testimonial_style_6 arrow_inside slider-dotted" data-config="{&quot;rtl&quot;:false,&quot;arrows&quot;:true,&quot;dots&quot;:true,&quot;pauseOnHover&quot;:true,&quot;autoplay&quot;:true,&quot;speed&quot;:1000,&quot;slidesPerGroup&quot;:1,&quot;slidesPerView&quot;:4,&quot;loop&quot;:true,&quot;breakpoints&quot;:{&quot;320&quot;:{&quot;slidesPerView&quot;:1,&quot;slidesPerGroup&quot;:1,&quot;spaceBetween&quot;:10},&quot;768&quot;:{&quot;slidesPerView&quot;:1,&quot;slidesPerGroup&quot;:1,&quot;spaceBetween&quot;:15},&quot;1024&quot;:{&quot;slidesPerView&quot;:4,&quot;slidesPerGroup&quot;:1,&quot;spaceBetween&quot;:24}}}">
+	<div class="ekit-main-swiper swiper swiper-initialized swiper-horizontal swiper-pointer-events swiper-backface-hidden">
+		<div class="swiper-wrapper" id="swiper-wrapper-349c4d8d5bf9addb" aria-live="off" style="transition-duration: 0ms; transform: translate3d(-2052px, 0px, 0px);"><div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" style="width: 327px; margin-right: 15px;" role="group" aria-label="6 / 6" data-swiper-slide-index="5">
+					<div class="swiper-slide-inner">
+						<div class="elementskit-single-testimonial-slider elementskit-testimonial-slider-block-style elementskit-testimonial-slider-block-style-three  elementor-repeater-item-2703613">
+														<div class="elementskit-watermark-icon elementskit-icon-content ">
+								<i aria-hidden="true" class="icon icon-quote"></i>							</div>
+																					<div class="elementskit-commentor-bio client_center">
+								<div class="elementkit-commentor-details">
+										<div class="elementskit-commentor-image ekit-testimonial--avatar">
+											<img decoding="async" loading="lazy" width="257" height="300" src="https://tayyabtution.rf.gd/wp-content/uploads/2023/11/team-member-1_2x-257x300-removebg-preview.png" class="attachment-full size-full" alt="">										</div>
+								</div>
+							</div>
+							
+															<div class="elementskit-profile-info">
+																		<strong class="elementskit-author-name">JENNIFER</strong>
+																											<span class="elementskit-author-des">Maths Teacher</span>
+																	</div>
+							
+													</div>
+					</div>
+				</div>
+							<div class="swiper-slide swiper-slide-duplicate-next" style="width: 327px; margin-right: 15px;" role="group" aria-label="1 / 6" data-swiper-slide-index="0">
+					<div class="swiper-slide-inner">
+						<div class="elementskit-single-testimonial-slider elementskit-testimonial-slider-block-style elementskit-testimonial-slider-block-style-three  elementor-repeater-item-db2161a">
+														<div class="elementskit-watermark-icon elementskit-icon-content ">
+								<i aria-hidden="true" class="icon icon-quote"></i>							</div>
+																					<div class="elementskit-commentor-bio client_center">
+								<div class="elementkit-commentor-details">
+										<div class="elementskit-commentor-image ekit-testimonial--avatar">
+											<img decoding="async" loading="lazy" width="283" height="280" src="https://tayyabtution.rf.gd/wp-content/uploads/2023/10/alakh-removebg-preview.png" class="attachment-full size-full" alt="">										</div>
+								</div>
+							</div>
+							
+															<div class="elementskit-profile-info">
+																		<strong class="elementskit-author-name">ALAK PANDEY</strong>
+																											<span class="elementskit-author-des">Physics Teacher</span>
+																	</div>
+							
+													</div>
+					</div>
+				</div>
+							<div class="swiper-slide" style="width: 327px; margin-right: 15px;" role="group" aria-label="2 / 6" data-swiper-slide-index="1">
+					<div class="swiper-slide-inner">
+						<div class="elementskit-single-testimonial-slider elementskit-testimonial-slider-block-style elementskit-testimonial-slider-block-style-three  elementor-repeater-item-e04e4e2">
+														<div class="elementskit-watermark-icon elementskit-icon-content ">
+								<i aria-hidden="true" class="icon icon-quote"></i>							</div>
+																					<div class="elementskit-commentor-bio client_center">
+								<div class="elementkit-commentor-details">
+										<div class="elementskit-commentor-image ekit-testimonial--avatar">
+											<img decoding="async" loading="lazy" width="1080" height="1080" src="https://tayyabtution.rf.gd/wp-content/uploads/2023/10/1681366268_03-1.webp" class="attachment-full size-full" alt="" srcset="https://tayyabtution.rf.gd/wp-content/uploads/2023/10/1681366268_03-1.webp 1080w, https://tayyabtution.rf.gd/wp-content/uploads/2023/10/1681366268_03-1-300x300.webp 300w, https://tayyabtution.rf.gd/wp-content/uploads/2023/10/1681366268_03-1-1024x1024.webp 1024w, https://tayyabtution.rf.gd/wp-content/uploads/2023/10/1681366268_03-1-150x150.webp 150w, https://tayyabtution.rf.gd/wp-content/uploads/2023/10/1681366268_03-1-768x768.webp 768w" sizes="(max-width: 1080px) 100vw, 1080px">										</div>
+								</div>
+							</div>
+							
+															<div class="elementskit-profile-info">
+																		<strong class="elementskit-author-name">VIKAS DIVYAKIRTI</strong>
+																											<span class="elementskit-author-des">UPSE Teacher</span>
+																	</div>
+							
+													</div>
+					</div>
+				</div>
+							<div class="swiper-slide" style="width: 327px; margin-right: 15px;" role="group" aria-label="3 / 6" data-swiper-slide-index="2">
+					<div class="swiper-slide-inner">
+						<div class="elementskit-single-testimonial-slider elementskit-testimonial-slider-block-style elementskit-testimonial-slider-block-style-three  elementor-repeater-item-139e6a5">
+														<div class="elementskit-watermark-icon elementskit-icon-content ">
+								<i aria-hidden="true" class="icon icon-quote"></i>							</div>
+																					<div class="elementskit-commentor-bio client_center">
+								<div class="elementkit-commentor-details">
+										<div class="elementskit-commentor-image ekit-testimonial--avatar">
+											<img decoding="async" loading="lazy" width="500" height="500" src="https://tayyabtution.rf.gd/wp-content/uploads/2023/11/dhruv-about-me-desktopv3-removebg-preview.png" class="attachment-full size-full" alt="" srcset="https://tayyabtution.rf.gd/wp-content/uploads/2023/11/dhruv-about-me-desktopv3-removebg-preview.png 500w, https://tayyabtution.rf.gd/wp-content/uploads/2023/11/dhruv-about-me-desktopv3-removebg-preview-300x300.png 300w, https://tayyabtution.rf.gd/wp-content/uploads/2023/11/dhruv-about-me-desktopv3-removebg-preview-150x150.png 150w" sizes="(max-width: 500px) 100vw, 500px">										</div>
+								</div>
+							</div>
+							
+															<div class="elementskit-profile-info">
+																		<strong class="elementskit-author-name">DHRUV RATHEE</strong>
+																											<span class="elementskit-author-des">Humanities Teacher</span>
+																	</div>
+							
+													</div>
+					</div>
+				</div>
+							<div class="swiper-slide" style="width: 327px; margin-right: 15px;" role="group" aria-label="4 / 6" data-swiper-slide-index="3">
+					<div class="swiper-slide-inner">
+						<div class="elementskit-single-testimonial-slider elementskit-testimonial-slider-block-style elementskit-testimonial-slider-block-style-three  elementor-repeater-item-eee51a5">
+														<div class="elementskit-watermark-icon elementskit-icon-content ">
+								<i aria-hidden="true" class="icon icon-quote"></i>							</div>
+																					<div class="elementskit-commentor-bio client_center">
+								<div class="elementkit-commentor-details">
+										<div class="elementskit-commentor-image ekit-testimonial--avatar">
+											<img decoding="async" loading="lazy" width="257" height="300" src="https://tayyabtution.rf.gd/wp-content/uploads/2023/11/team-member-2_2x-257x300-removebg-preview.png" class="attachment-full size-full" alt="">										</div>
+								</div>
+							</div>
+							
+															<div class="elementskit-profile-info">
+																		<strong class="elementskit-author-name">AMIR HUSSAIN</strong>
+																											<span class="elementskit-author-des">CS Teacher</span>
+																	</div>
+							
+													</div>
+					</div>
+				</div>
+							<div class="swiper-slide swiper-slide-prev" style="width: 327px; margin-right: 15px;" role="group" aria-label="5 / 6" data-swiper-slide-index="4">
+					<div class="swiper-slide-inner">
+						<div class="elementskit-single-testimonial-slider elementskit-testimonial-slider-block-style elementskit-testimonial-slider-block-style-three  elementor-repeater-item-3003065">
+														<div class="elementskit-watermark-icon elementskit-icon-content ">
+								<i aria-hidden="true" class="icon icon-quote"></i>							</div>
+																					<div class="elementskit-commentor-bio client_center">
+								<div class="elementkit-commentor-details">
+										<div class="elementskit-commentor-image ekit-testimonial--avatar">
+											<img decoding="async" loading="lazy" width="257" height="300" src="https://tayyabtution.rf.gd/wp-content/uploads/2023/11/team-member-3_2x-257x300-removebg-preview.png" class="attachment-full size-full" alt="">										</div>
+								</div>
+							</div>
+							
+															<div class="elementskit-profile-info">
+																		<strong class="elementskit-author-name">EMMY WALL</strong>
+																											<span class="elementskit-author-des">English Teacher</span>
+																	</div>
+							
+													</div>
+					</div>
+				</div>
+							<div class="swiper-slide swiper-slide-active" style="width: 327px; margin-right: 15px;" role="group" aria-label="6 / 6" data-swiper-slide-index="5">
+					<div class="swiper-slide-inner">
+						<div class="elementskit-single-testimonial-slider elementskit-testimonial-slider-block-style elementskit-testimonial-slider-block-style-three  elementor-repeater-item-2703613">
+														<div class="elementskit-watermark-icon elementskit-icon-content ">
+								<i aria-hidden="true" class="icon icon-quote"></i>							</div>
+																					<div class="elementskit-commentor-bio client_center">
+								<div class="elementkit-commentor-details">
+										<div class="elementskit-commentor-image ekit-testimonial--avatar">
+											<img decoding="async" loading="lazy" width="257" height="300" src="https://tayyabtution.rf.gd/wp-content/uploads/2023/11/team-member-1_2x-257x300-removebg-preview.png" class="attachment-full size-full" alt="">										</div>
+								</div>
+							</div>
+							
+															<div class="elementskit-profile-info">
+																		<strong class="elementskit-author-name">JENNIFER</strong>
+																											<span class="elementskit-author-des">Maths Teacher</span>
+																	</div>
+							
+													</div>
+					</div>
+				</div>
+					<div class="swiper-slide swiper-slide-duplicate swiper-slide-next" style="width: 327px; margin-right: 15px;" role="group" aria-label="1 / 6" data-swiper-slide-index="0">
+					<div class="swiper-slide-inner">
+						<div class="elementskit-single-testimonial-slider elementskit-testimonial-slider-block-style elementskit-testimonial-slider-block-style-three  elementor-repeater-item-db2161a">
+														<div class="elementskit-watermark-icon elementskit-icon-content ">
+								<i aria-hidden="true" class="icon icon-quote"></i>							</div>
+																					<div class="elementskit-commentor-bio client_center">
+								<div class="elementkit-commentor-details">
+										<div class="elementskit-commentor-image ekit-testimonial--avatar">
+											<img decoding="async" loading="lazy" width="283" height="280" src="https://tayyabtution.rf.gd/wp-content/uploads/2023/10/alakh-removebg-preview.png" class="attachment-full size-full" alt="">										</div>
+								</div>
+							</div>
+							
+															<div class="elementskit-profile-info">
+																		<strong class="elementskit-author-name">ALAK PANDEY</strong>
+																											<span class="elementskit-author-des">Physics Teacher</span>
+																	</div>
+							
+													</div>
+					</div>
+				</div></div>
+
+					<div class="swiper-pagination swiper-pagination-clickable swiper-pagination-bullets swiper-pagination-horizontal"><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 1"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 2"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 3"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 4"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 5"></span><span class="swiper-pagination-bullet swiper-pagination-bullet-active" tabindex="0" role="button" aria-label="Go to slide 6" aria-current="true"></span></div>
+		
+					<div class="swiper-navigation-button swiper-button-prev" tabindex="0" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-349c4d8d5bf9addb"><i class=""></i></div>
+			<div class="swiper-navigation-button swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-349c4d8d5bf9addb"><i class=""></i></div>
+			<span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+</div>
+</div>		</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-3963b3f e-flex e-con-boxed e-con e-parent" data-id="3963b3f" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-47da2f4 e-con-full e-flex e-con e-child" data-id="47da2f4" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+		<div class="elementor-element elementor-element-10e9ecd e-con-full e-flex e-con e-child" data-id="10e9ecd" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-0087b1d elementor-widget elementor-widget-heading" data-id="0087b1d" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">Have a Doubt in Mind?</h4>		</div>
+				</div>
+				<div class="elementor-element elementor-element-80885df elementor-widget elementor-widget-text-editor" data-id="80885df" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Nullam eget felis eget nunc lobortis. Faucibus ornare suspendisse sed nisi sagittis.</p>						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-1171e97 e-con-full e-flex e-con e-child" data-id="1171e97" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-94e4d4b elementor-align-center elementor-widget elementor-widget-button" data-id="94e4d4b" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a class="elementor-button elementor-button-link elementor-size-sm" href="https://tayyabtution.rf.gd/contact/">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Contact Us</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+							</div>
+				</div>
+
+		
+		
+		
+		
+	</article>
+
+	
+		
+			</div>
+
+	</main>
+
+			<footer itemtype="https://schema.org/WPFooter" itemscope="itemscope" id="colophon" role="contentinfo">
+			<div class="footer-width-fixer">		<div data-elementor-type="wp-post" data-elementor-id="1872" class="elementor elementor-1872">
+							<div class="elementor-element elementor-element-5fa2564 e-con-full e-flex e-con e-parent" data-id="5fa2564" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;background_background&quot;:&quot;classic&quot;}" data-core-v316-plus="true">
+		<div class="elementor-element elementor-element-96469f6 e-flex e-con-boxed e-con e-child" data-id="96469f6" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-19c233e e-con-full e-flex e-con e-child" data-id="19c233e" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-bf45fe6 elementor-widget elementor-widget-image" data-id="bf45fe6" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="250" height="98" src="https://tayyabtution.rf.gd/wp-content/uploads/2023/11/7qMSJU-LogoMakr.png" class="attachment-full size-full wp-image-1875" alt="" loading="lazy">															</div>
+				</div>
+				<div class="elementor-element elementor-element-6f87179 elementor-widget elementor-widget-text-editor" data-id="6f87179" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut&nbsp;</p>						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-63451d6 e-con-full e-flex e-con e-child" data-id="63451d6" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-ce3f998 elementor-widget elementor-widget-heading" data-id="ce3f998" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Address info</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-72f3f3b elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="72f3f3b" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+			<link rel="stylesheet" href="https://tayyabtution.rf.gd/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css">		<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#2872FA" id="Capa_1" width="197px" height="197px" viewBox="-39.57 -39.57 474.85 474.85" xml:space="preserve" stroke="#2872FA" transform="matrix(1, 0, 0, 1, 0, 0)rotate(0)"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round" stroke="#CCCCCC" stroke-width="5.53994"></g><g id="SVGRepo_iconCarrier"> <g> <path d="M197.849,0C122.131,0,60.531,61.609,60.531,137.329c0,72.887,124.591,243.177,129.896,250.388l4.951,6.738 c0.579,0.792,1.501,1.255,2.471,1.255c0.985,0,1.901-0.463,2.486-1.255l4.948-6.738c5.308-7.211,129.896-177.501,129.896-250.388 C335.179,61.609,273.569,0,197.849,0z M197.849,88.138c27.13,0,49.191,22.062,49.191,49.191c0,27.115-22.062,49.191-49.191,49.191 c-27.114,0-49.191-22.076-49.191-49.191C148.658,110.2,170.734,88.138,197.849,88.138z"></path> </g> </g></svg>						</span>
+										<span class="elementor-icon-list-text">C-111 Shaheen Bagh Jamia Nagar Okhla New Delhi 110025</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="800px" width="800px" id="_x32_" viewBox="0 0 512 512" xml:space="preserve" fill="#ffffff" stroke="#ffffff"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <style type="text/css"> .st0{fill:#ffffff;} </style> <g> <path class="st0" d="M145.686,204.919c9.028-9.028,9.028-23.649,0-32.677l-62.11-62.102c-9.028-9.028-23.641-9.02-32.677,0 c-0.16,0.168-2.292,2.293-20.596,20.605l94.786,94.778L145.686,204.919z"></path> <path class="st0" d="M248.398,396.424c0,0-26.94-17.768-71.002-61.822c-44.061-44.069-61.822-71.01-61.822-71.01 c-6.048-7.813-6.312-18.391-1.207-26.46l-95.225-95.218c-1.822,1.806-3.675,3.66-5.696,5.688 c-39.699,39.699,12.807,161.378,101.186,249.756c88.378,88.379,210.064,140.893,249.756,101.186 c2.029-2.03,3.883-3.867,5.697-5.688l-95.226-95.218C266.798,402.736,256.219,402.464,248.398,396.424z"></path> <path class="st0" d="M339.756,366.304c-9.035-9.028-23.664-9.028-32.692,0l-20.597,20.597l94.786,94.786 c18.304-18.304,20.437-20.428,20.597-20.596c9.028-9.028,9.028-23.65,0-32.677L339.756,366.304z"></path> <path class="st0" d="M330.488,269.976l24.88-3.955c-4.203-26.461-16.563-51.995-36.976-72.408 c-20.412-20.405-45.938-32.765-72.408-36.975l-3.962,24.879c21.451,3.436,41.992,13.358,58.554,29.92 C317.13,228,327.061,248.532,330.488,269.976z"></path> <path class="st0" d="M258.345,78.247l-3.908,24.902c37.47,5.888,73.423,23.177,102.336,52.083 c28.906,28.922,46.195,64.859,52.091,102.336l24.887-3.915c-6.663-42.512-26.389-83.466-59.161-116.238 C341.81,104.643,300.856,84.926,258.345,78.247z"></path> <path class="st0" d="M430.54,81.474C385.472,36.398,329.178,9.234,270.72,0.006l-3.923,24.895 c53.441,8.453,104.693,33.164,145.926,74.389c41.209,41.217,65.937,92.494,74.381,145.919L512,241.286 C502.764,182.82,475.608,126.534,430.54,81.474z"></path> </g> </g></svg>						</span>
+										<span class="elementor-icon-list-text">9900708382</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256px" height="256px" viewBox="-0.4 -0.4 20.80 20.80" fill="#ffffff" transform="matrix(1, 0, 0, 1, 0, 0)rotate(0)" stroke="#ffffff"><g id="SVGRepo_bgCarrier" stroke-width="0" transform="translate(8.6,8.6), scale(0.14)"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round" stroke="#CCCCCC" stroke-width="0.56"></g><g id="SVGRepo_iconCarrier"><title>email [#ffffff]</title><desc>Created with Sketch.</desc><defs> </defs><g id="Page-1" stroke-width="0.0002" fill="none" fill-rule="evenodd"><g id="Dribbble-Light-Preview" transform="translate(-340.000000, -922.000000)" fill="#ffffff"><g id="icons" transform="translate(56.000000, 160.000000)"><path d="M294,774.474 L284,765.649 L284,777 L304,777 L304,765.649 L294,774.474 Z M294.001,771.812 L284,762.981 L284,762 L304,762 L304,762.981 L294.001,771.812 Z" id="email-[#ffffff]"> </path></g></g></g></g></svg>						</span>
+										<span class="elementor-icon-list-text">tayyabtution@gmail.com</span>
+									</li>
+						</ul>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-c3fd2ef e-con-full e-flex e-con e-child" data-id="c3fd2ef" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-caa026f elementor-widget elementor-widget-heading" data-id="caa026f" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Our Courses</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-5158d4b elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="5158d4b" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+										<span class="elementor-icon-list-text">IX / XII Board</span>
+									</li>
+								<li class="elementor-icon-list-item">
+										<span class="elementor-icon-list-text">CUET</span>
+									</li>
+								<li class="elementor-icon-list-item">
+										<span class="elementor-icon-list-text">Jaimia Enterance</span>
+									</li>
+								<li class="elementor-icon-list-item">
+										<span class="elementor-icon-list-text">JEE Mains and Advance</span>
+									</li>
+								<li class="elementor-icon-list-item">
+										<span class="elementor-icon-list-text">NEET</span>
+									</li>
+								<li class="elementor-icon-list-item">
+										<span class="elementor-icon-list-text">UPSE / SSC CGL</span>
+									</li>
+						</ul>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-7ef035c e-con-full e-flex e-con e-child" data-id="7ef035c" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-30734e3 elementor-widget elementor-widget-heading" data-id="30734e3" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Important Links</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-867d699 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="867d699" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<a href="http://tayyabtution.rf.gd/about/">
+
+											<span class="elementor-icon-list-text">About us</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="http://tayyabtution.rf.gd/services/">
+
+											<span class="elementor-icon-list-text">Courses</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="http://tayyabtution.rf.gd/services/">
+
+											<span class="elementor-icon-list-text">Results</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="http://tayyabtution.rf.gd/services/">
+
+											<span class="elementor-icon-list-text">Events</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="http://tayyabtution.rf.gd/contact/">
+
+											<span class="elementor-icon-list-text">Contacts</span>
+											</a>
+									</li>
+						</ul>
+				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-452642c e-flex e-con-boxed e-con e-child" data-id="452642c" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-d514646 e-con-full e-flex e-con e-child" data-id="d514646" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-f02becc elementor-widget elementor-widget-text-editor" data-id="f02becc" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Copyright © 2023 All Rights Reserved | Developed by Yahya Siddique</p>						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-bbf8cf3 e-con-full e-flex e-con e-child" data-id="bbf8cf3" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-42d8061 elementor-widget elementor-widget-elementskit-social-media" data-id="42d8061" data-element_type="widget" data-widget_type="elementskit-social-media.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con">			 <ul class="ekit_social_media">
+														<li class="elementor-repeater-item-d6ea998">
+					    <a href="https://facebook.com" aria-label="Facebook" class="facebook">
+														
+							<i aria-hidden="true" class="icon icon-facebook"></i>									
+                                                                                                            </a>
+                    </li>
+                    														<li class="elementor-repeater-item-aa81a14">
+					    <a href="https://facebook.com" aria-label="Twitter" class="twitter">
+														
+							<i aria-hidden="true" class="icon icon-twitter"></i>									
+                                                                                                            </a>
+                    </li>
+                    														<li class="elementor-repeater-item-fdb47d0">
+					    <a href="https://facebook.com" aria-label="LinkedIn" class="linkedin">
+														
+							<i aria-hidden="true" class="icon icon-linkedin"></i>									
+                                                                                                            </a>
+                    </li>
+                    														<li class="elementor-repeater-item-9c8d199">
+					    <a href="https://facebook.com" aria-label="Instragram" class="instagram">
+														
+							<i aria-hidden="true" class="fab fa-instagram"></i>									
+                                                                                                            </a>
+                    </li>
+                    														<li class="elementor-repeater-item-5796731">
+					    <a href="https://facebook.com" aria-label="What's app" class="whatsapp">
+														
+							<i aria-hidden="true" class="fab fa-whatsapp"></i>									
+                                                                                                            </a>
+                    </li>
+                    														<li class="elementor-repeater-item-08f6c68">
+					    <a href="https://facebook.com" aria-label="What's app" class="">
+														
+							<svg xmlns="http://www.w3.org/2000/svg" width="800px" height="800px" viewBox="0 0 24 24" fill="none"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><path d="M18.59 5.88997C17.36 5.31997 16.05 4.89997 14.67 4.65997C14.5 4.95997 14.3 5.36997 14.17 5.69997C12.71 5.47997 11.26 5.47997 9.83001 5.69997C9.69001 5.36997 9.49001 4.95997 9.32001 4.65997C7.94001 4.89997 6.63001 5.31997 5.40001 5.88997C2.92001 9.62997 2.25001 13.28 2.58001 16.87C4.23001 18.1 5.82001 18.84 7.39001 19.33C7.78001 18.8 8.12001 18.23 8.42001 17.64C7.85001 17.43 7.31001 17.16 6.80001 16.85C6.94001 16.75 7.07001 16.64 7.20001 16.54C10.33 18 13.72 18 16.81 16.54C16.94 16.65 17.07 16.75 17.21 16.85C16.7 17.16 16.15 17.42 15.59 17.64C15.89 18.23 16.23 18.8 16.62 19.33C18.19 18.84 19.79 18.1 21.43 16.87C21.82 12.7 20.76 9.08997 18.61 5.88997H18.59ZM8.84001 14.67C7.90001 14.67 7.13001 13.8 7.13001 12.73C7.13001 11.66 7.88001 10.79 8.84001 10.79C9.80001 10.79 10.56 11.66 10.55 12.73C10.55 13.79 9.80001 14.67 8.84001 14.67ZM15.15 14.67C14.21 14.67 13.44 13.8 13.44 12.73C13.44 11.66 14.19 10.79 15.15 10.79C16.11 10.79 16.87 11.66 16.86 12.73C16.86 13.79 16.11 14.67 15.15 14.67Z" fill="#000000"></path></g></svg>									
+                                                                                                            </a>
+                    </li>
+                    							</ul>
+		</div>		</div>
+				</div>
+				</div>
+					</div>
+				</div>
+				</div>
+							</div>
+		</div>		</footer>
+	</div>
+
+<script src="https://tayyabtution.rf.gd/wp-content/plugins/elementskit-lite/libs/framework/assets/js/frontend-script.js?ver=2.9.2" id="elementskit-framework-js-frontend-js"></script>
+<script id="elementskit-framework-js-frontend-js-after">
+		var elementskit = {
+			resturl: 'https://tayyabtution.rf.gd/wp-json/elementskit/v1/',
+		}
+
+		
+</script>
+<script src="https://tayyabtution.rf.gd/wp-content/plugins/elementskit-lite/widgets/init/assets/js/widget-scripts.js?ver=2.9.2" id="ekit-widget-scripts-js"></script>
+<script id="ct-scripts-js-extra">
+var ct_localizations = {"ajax_url":"https:\/\/tayyabtution.rf.gd\/wp-admin\/admin-ajax.php","nonce":"a6ac69a232","public_url":"https:\/\/tayyabtution.rf.gd\/wp-content\/themes\/blocksy\/static\/bundle\/","rest_url":"https:\/\/tayyabtution.rf.gd\/wp-json\/","search_url":"https:\/\/tayyabtution.rf.gd\/search\/QUERY_STRING\/","show_more_text":"Show more","more_text":"More","search_live_results":"Search results","search_live_no_result":"No results","search_live_one_result":"You got %s result. Please press Tab to select it.","search_live_many_results":"You got %s results. Please press Tab to select one.","expand_submenu":"Expand dropdown menu","collapse_submenu":"Collapse dropdown menu","dynamic_js_chunks":[{"id":"blocksy_dark_mode","selector":"[data-id=\"dark-mode-switcher\"]","url":"https:\/\/tayyabtution.rf.gd\/wp-content\/plugins\/blocksy-companion\/static\/bundle\/dark-mode.js","trigger":"click"},{"id":"blocksy_sticky_header","selector":"header [data-sticky]","url":"https:\/\/tayyabtution.rf.gd\/wp-content\/plugins\/blocksy-companion\/static\/bundle\/sticky.js"}],"dynamic_styles":{"lazy_load":"https:\/\/tayyabtution.rf.gd\/wp-content\/themes\/blocksy\/static\/bundle\/non-critical-styles.min.css","search_lazy":"https:\/\/tayyabtution.rf.gd\/wp-content\/themes\/blocksy\/static\/bundle\/non-critical-search-styles.min.css"},"dynamic_styles_selectors":[{"selector":"#account-modal","url":"https:\/\/tayyabtution.rf.gd\/wp-content\/plugins\/blocksy-companion\/static\/bundle\/account-lazy.min.css"}]};
+</script>
+<script src="https://tayyabtution.rf.gd/wp-content/themes/blocksy/static/bundle/main.js?ver=1.9.7" id="ct-scripts-js"></script>
+<script src="https://tayyabtution.rf.gd/wp-content/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.min.js?ver=0.2.1" id="jquery-numerator-js"></script>
+<script src="https://tayyabtution.rf.gd/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.17.3" id="elementor-webpack-runtime-js"></script>
+<script src="https://tayyabtution.rf.gd/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.17.3" id="elementor-frontend-modules-js"></script>
+<script src="https://tayyabtution.rf.gd/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2" id="elementor-waypoints-js"></script>
+<script src="https://tayyabtution.rf.gd/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2" id="jquery-ui-core-js"></script>
+<script id="elementor-frontend-js-before">
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselWrapperAriaLabel":"Carousel | Horizontal scrolling: Arrow Left & Right","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.17.3","is_static":false,"experimentalFeatures":{"e_dom_optimization":true,"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"additional_custom_breakpoints":true,"container":true,"e_swiper_latest":true,"landing-pages":true,"e_global_styleguide":true},"urls":{"assets":"https:\/\/tayyabtution.rf.gd\/wp-content\/plugins\/elementor\/assets\/"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":1142,"title":"Tayyab%20Tution%20%E2%80%93%20Best%20place%20for%20your%20children%20to%20guidence","excerpt":"","featuredImage":false}};
+</script>
+<script src="https://tayyabtution.rf.gd/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.17.3" id="elementor-frontend-js"></script><span id="elementor-device-mode" class="elementor-screen-only"></span>
+<script src="https://tayyabtution.rf.gd/wp-content/plugins/elementskit-lite/widgets/init/assets/js/animate-circle.min.js?ver=2.9.2" id="animate-circle-js"></script>
+<script id="elementskit-elementor-js-extra">
+var ekit_config = {"ajaxurl":"https:\/\/tayyabtution.rf.gd\/wp-admin\/admin-ajax.php","nonce":"3e2a2aec0a"};
+</script>
+<script src="https://tayyabtution.rf.gd/wp-content/plugins/elementskit-lite/widgets/init/assets/js/elementor.js?ver=2.9.2" id="elementskit-elementor-js"></script>
+<script src="https://tayyabtution.rf.gd/wp-includes/js/underscore.min.js?ver=1.13.4" id="underscore-js"></script>
+<script id="wp-util-js-extra">
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+</script>
+<script src="https://tayyabtution.rf.gd/wp-includes/js/wp-util.min.js?ver=6.3.1" id="wp-util-js"></script>
+<script id="wpforms-elementor-js-extra">
+var wpformsElementorVars = {"captcha_provider":"recaptcha","recaptcha_type":"v2"};
+</script>
+<script src="https://tayyabtution.rf.gd/wp-content/plugins/wpforms-lite/assets/js/integrations/elementor/frontend.min.js?ver=1.8.4" id="wpforms-elementor-js"></script>
+
+
+
+<script src="https://tayyabtution.rf.gd/wp-content/plugins/elementor/assets/lib/swiper/v8/swiper.min.js?ver=8.4.5"></script><link rel="stylesheet" href="https://tayyabtution.rf.gd/wp-content/themes/blocksy/static/bundle/non-critical-styles.min.css"></body></html>
